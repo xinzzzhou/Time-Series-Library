@@ -1,0 +1,51 @@
+#!/bin/bash
+#SBATCH --job-name=cr16
+#SBATCH --account=ar57
+#SBATCH --ntasks=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --mem-per-cpu=92160
+#SBATCH --cpus-per-task=1
+#SBATCH --time=1-00:00:00
+#SBATCH --mail-user=xin.zhou1@monash.edu
+#SBATCH --mail-type=BEGIN,END,FAIL
+#SBATCH --partition=fit
+#SBATCH --qos=fitq
+#SBATCH --gres=gpu:A100:1 
+#SBATCH --output=%x-%j.out
+#SBATCH --error=%x-%j.err
+
+source activate tsl1
+sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/Relateformer_Corr.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/crime-new/Relateformer_Corr1.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/baselines/DLinear.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/crime-new/Relateformer_relate.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/baselines/iTransformer.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/crime-new/Relateformer_Corr4.sh
+# sh baselines/Time-Series-Library/scripts/crime/crime-new/Relateformer_Corr.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/baselines/TimesNet.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/baselines/Transformer.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/baselines/NLinear.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/baselines/PatchTST.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/baselines/Crossformer.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corrall.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr1.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr2.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr3.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr4.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr5.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr6.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr7.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr8.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr9.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr10.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr11.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr12.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr13.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr14.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr15.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr16.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr17.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr18.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr19.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr20.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/adj_params/Relateformer_Corr25.sh

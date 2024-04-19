@@ -1,0 +1,30 @@
+#!/bin/bash
+#SBATCH --job-name=wk_nl
+#SBATCH --account=ar57
+#SBATCH --ntasks=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --mem-per-cpu=92160
+#SBATCH --cpus-per-task=1
+#SBATCH --time=6-00:00:00
+#SBATCH --mail-user=xin.zhou1@monash.edu
+#SBATCH --mail-type=BEGIN,END,FAIL
+#SBATCH --partition=gpu,m3g
+#SBATCH --gres=gpu:V100:1
+#SBATCH --output=%x-%j.out
+#SBATCH --error=%x-%j.err
+
+source activate tsl
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/Crossformer.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/PatchTST.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/TimesNet.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/Relateformer_Corr20-20.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/Relateformer_Corr35.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/Relateformer_Corr40.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/Crossformer.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/DLinear3.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/Linear.sh
+sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/NLinear.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/Nonstationary_Transformer.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/PatchTST.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/TimesNet2.sh
+# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/wiki/self/Transformer.sh
