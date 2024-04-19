@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=tr_corr2
+#SBATCH --job-name=tr1
 #SBATCH --account=ar57
 #SBATCH --ntasks=1
 #SBATCH --ntasks-per-node=1
@@ -15,9 +15,4 @@
 #SBATCH --error=%x-%j.err
 
 source activate tsl1
-sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/traffic/Relateformer2.sh
-# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/traffic/iTransformer.sh
-# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/traffic/Crossformer.sh
-# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/traffic/DLinear.sh
-# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/traffic/Relateformer3.sh
-# sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/traffic/PatchTST.sh
+sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/traffic/Relateformer1.sh

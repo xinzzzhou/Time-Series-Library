@@ -12,7 +12,7 @@ layer=3
 learning_rate=0.0001 # learning_rates=(0.1 0.01 0.0001)
 batch_size=32 # batch_sizes=(16 32 64 128)
 n_heads=16 # n_headss=(1 2 3 5 6 8 16)
-horizons=(96)
+horizons=(192)
 for corr in "${corrs[@]}"; do
   for horizon in "${horizons[@]}"; do
     # for d_ff in "${d_ffs[@]}"; do
