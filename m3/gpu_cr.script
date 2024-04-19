@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=cr_td
+#SBATCH --job-name=cr16
 #SBATCH --account=ar57
 #SBATCH --ntasks=1
 #SBATCH --ntasks-per-node=1
@@ -15,7 +15,7 @@
 #SBATCH --error=%x-%j.err
 
 source activate tsl1
-sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/crime-new/Relateformer_ATNTD.sh
+sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/Relateformer_Corr.sh
 # sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/crime-new/Relateformer_Corr1.sh
 # sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/self/baselines/DLinear.sh
 # sh /home/xinz/ar57_scratch/xinz/HTSFB_project/baselines/Time-Series-Library/scripts/crime/crime-new/Relateformer_relate.sh

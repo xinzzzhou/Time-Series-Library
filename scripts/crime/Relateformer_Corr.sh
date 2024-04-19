@@ -4,7 +4,7 @@ model_name=Relateformer
 root_directory=$(dirname "$(dirname "$(pwd)")")
 # root_directory='/home/xinz/ar57_scratch/xinz/HTSFB_project/'
 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-corrs=() 
+corrs=(16) 
 
 d_ff=384 #d_ffs=(64 128 256 384)
 d_model=256 # d_models=(64 128 256 384)
@@ -12,7 +12,7 @@ layer=1 # layers=(1 2 3 4 5 6)
 learning_rate=0.001 # learning_rates=(0.1 0.01 0.001 0.0001)
 batch_size=128 # batch_sizes=(16 32 64 128)
 n_heads=4 # n_headss=(1 2 3 4 5 6 8 16)
-horizons=(6 12 18 24)
+horizons=(6)
 for corr in "${corrs[@]}"; do
   for horizon in "${horizons[@]}"; do
     # for d_ff in "${d_ffs[@]}"; do
