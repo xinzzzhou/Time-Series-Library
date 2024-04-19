@@ -88,3 +88,5 @@
 2024-04-19 15:04:23,975 - INFO - 	speed: 2.7879s/iter; left time: 88250891.7365s
 2024-04-19 15:09:09,127 - INFO - 	iters: 4200, epoch: 1 | loss: 0.3931450
 2024-04-19 15:09:09,140 - INFO - 	speed: 2.8516s/iter; left time: 90270078.4379s
+2024-04-19 15:13:47,370 - INFO - 	iters: 4300, epoch: 1 | loss: 0.3861690
+2024-04-19 15:13:47,391 - INFO - 	speed: 2.7825s/iter; left time: 88081011.1087s

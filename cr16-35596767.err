@@ -487,3 +487,11 @@
 2024-04-19 15:11:50,927 - INFO - 	speed: 0.5734s/iter; left time: 67651.2558s
 2024-04-19 15:12:47,901 - INFO - 	iters: 800, epoch: 15 | loss: 0.5276574
 2024-04-19 15:12:47,903 - INFO - 	speed: 0.5698s/iter; left time: 67162.9916s
+2024-04-19 15:13:45,245 - INFO - 	iters: 900, epoch: 15 | loss: 0.4498375
+2024-04-19 15:13:45,246 - INFO - 	speed: 0.5734s/iter; left time: 67539.4589s
+2024-04-19 15:14:42,707 - INFO - 	iters: 1000, epoch: 15 | loss: 0.4323591
+2024-04-19 15:14:42,708 - INFO - 	speed: 0.5746s/iter; left time: 67622.0082s
+2024-04-19 15:15:40,213 - INFO - 	iters: 1100, epoch: 15 | loss: 0.5071091
+2024-04-19 15:15:40,214 - INFO - 	speed: 0.5751s/iter; left time: 67615.7198s
+2024-04-19 15:16:37,539 - INFO - 	iters: 1200, epoch: 15 | loss: 0.4952458
+2024-04-19 15:16:37,539 - INFO - 	speed: 0.5733s/iter; left time: 67346.0155s
