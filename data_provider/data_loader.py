@@ -358,9 +358,6 @@ class Dataset_Crime_Related_re(Dataset):
         '''
         df_raw.columns: ['date', ...(features)]
         '''
-        # cols = list(df_raw.columns)
-        # cols.remove('date')
-        # df_raw = df_raw[['date'] + cols]
         num_train = int(len(df_raw) * 0.7)
         num_test = int(len(df_raw) * 0.2)
         num_vali = len(df_raw) - num_train - num_test
@@ -371,9 +368,6 @@ class Dataset_Crime_Related_re(Dataset):
 
         cols_data = df_raw.columns[1:]
         df_data = df_raw[cols_data]
-        
-        # for sample pre-experiment
-        # df_data = df_data.iloc[:, :25]
         
         if self.scale:
             train_data = df_data[border1s[0]:border2s[0]]
@@ -440,23 +434,9 @@ class Dataset_Crime_Related_re(Dataset):
         seq_y = seq[r_begin:r_end]
         seq_x_mark = self.data_stamp[s_begin:s_end]
         seq_y_mark = self.data_stamp[r_begin:r_end]
-        # if 'top0' not in self.data_topk_path:
-            # seq_y =  seq_y[:,0]
         seq_y =  seq_y[:,0]
         
         return seq_x, seq_y, seq_x_mark, seq_y_mark
-        
-        '''s_begin = index
-        s_end = s_begin + self.seq_len
-        r_begin = s_end - self.label_len
-        r_end = r_begin + self.label_len + self.pred_len
-
-        seq_x = self.data_x[s_begin:s_end]
-        seq_y = self.data_y[r_begin:r_end]
-        seq_x_mark = self.data_stamp[s_begin:s_end]
-        seq_y_mark = self.data_stamp[r_begin:r_end]
-
-        return seq_x, seq_y, seq_x_mark, seq_y_mark'''
 
     def __len__(self):
         return len(self.reindexed_data)
@@ -510,9 +490,6 @@ class Dataset_Crime_Related_nore(Dataset):
         '''
         df_raw.columns: ['date', ...(features)]
         '''
-        # cols = list(df_raw.columns)
-        # cols.remove('date')
-        # df_raw = df_raw[['date'] + cols]
         num_train = int(len(df_raw) * 0.7)
         num_test = int(len(df_raw) * 0.2)
         num_vali = len(df_raw) - num_train - num_test
@@ -524,16 +501,13 @@ class Dataset_Crime_Related_nore(Dataset):
         cols_data = df_raw.columns[1:]
         df_data = df_raw[cols_data]
         
-        # for sample pre-experiment
-        # df_data = df_data.iloc[:, :25]
-        
         if self.scale:
             train_data = df_data[border1s[0]:border2s[0]]
             self.scaler.fit(train_data.values)
             data = self.scaler.transform(df_data.values)
         else:
             data = df_data
-
+            
         # extend df_raw with series_list
         if self.k != 0:
             result=None
@@ -592,23 +566,10 @@ class Dataset_Crime_Related_nore(Dataset):
         seq_y = seq[r_begin:r_end]
         seq_x_mark = self.data_stamp[s_begin:s_end]
         seq_y_mark = self.data_stamp[r_begin:r_end]
-        # if 'top0' not in self.data_topk_path:
-            # seq_y =  seq_y[:,0]
         seq_y =  seq_y[:,0]
         
         return seq_x, seq_y, seq_x_mark, seq_y_mark
         
-        '''s_begin = index
-        s_end = s_begin + self.seq_len
-        r_begin = s_end - self.label_len
-        r_end = r_begin + self.label_len + self.pred_len
-
-        seq_x = self.data_x[s_begin:s_end]
-        seq_y = self.data_y[r_begin:r_end]
-        seq_x_mark = self.data_stamp[s_begin:s_end]
-        seq_y_mark = self.data_stamp[r_begin:r_end]
-
-        return seq_x, seq_y, seq_x_mark, seq_y_mark'''
 
     def __len__(self):
         return len(self.reindexed_data)

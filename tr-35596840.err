@@ -4,3 +4,1639 @@
 2024-04-19 11:54:42,146 - INFO - train: 10213838
 2024-04-19 11:55:43,540 - INFO - val: 1431782
 2024-04-19 11:56:44,828 - INFO - test: 2942006
+2024-04-19 12:00:47,323 - INFO - 	iters: 100, epoch: 1 | loss: 0.4977027
+2024-04-19 12:00:47,538 - INFO - 	speed: 2.4271s/iter; left time: 77468276.1549s
+2024-04-19 12:00:57,827 - INFO - 	iters: 200, epoch: 1 | loss: 0.3913976
+2024-04-19 12:00:57,827 - INFO - 	speed: 0.1029s/iter; left time: 3283939.2595s
+2024-04-19 12:01:08,083 - INFO - 	iters: 300, epoch: 1 | loss: 0.4520824
+2024-04-19 12:01:08,084 - INFO - 	speed: 0.1026s/iter; left time: 3273637.6016s
+2024-04-19 12:01:18,335 - INFO - 	iters: 400, epoch: 1 | loss: 0.3415982
+2024-04-19 12:01:18,335 - INFO - 	speed: 0.1025s/iter; left time: 3272117.1810s
+2024-04-19 12:01:28,617 - INFO - 	iters: 500, epoch: 1 | loss: 0.4226700
+2024-04-19 12:01:28,618 - INFO - 	speed: 0.1028s/iter; left time: 3281822.7830s
+2024-04-19 12:01:38,868 - INFO - 	iters: 600, epoch: 1 | loss: 0.5026925
+2024-04-19 12:01:38,868 - INFO - 	speed: 0.1025s/iter; left time: 3271767.2516s
+2024-04-19 12:02:58,143 - INFO - 	iters: 700, epoch: 1 | loss: 0.4044378
+2024-04-19 12:02:58,143 - INFO - 	speed: 0.7927s/iter; left time: 25302474.1487s
+2024-04-19 12:03:08,428 - INFO - 	iters: 800, epoch: 1 | loss: 0.4409855
+2024-04-19 12:03:08,428 - INFO - 	speed: 0.1028s/iter; left time: 3282687.2940s
+2024-04-19 12:03:18,667 - INFO - 	iters: 900, epoch: 1 | loss: 0.7344348
+2024-04-19 12:03:18,667 - INFO - 	speed: 0.1024s/iter; left time: 3267902.9723s
+2024-04-19 12:03:28,937 - INFO - 	iters: 1000, epoch: 1 | loss: 0.3296435
+2024-04-19 12:03:28,937 - INFO - 	speed: 0.1027s/iter; left time: 3278039.0654s
+2024-04-19 12:03:39,211 - INFO - 	iters: 1100, epoch: 1 | loss: 0.3703376
+2024-04-19 12:03:39,211 - INFO - 	speed: 0.1027s/iter; left time: 3279095.2846s
+2024-04-19 12:03:49,472 - INFO - 	iters: 1200, epoch: 1 | loss: 0.5215948
+2024-04-19 12:03:49,472 - INFO - 	speed: 0.1026s/iter; left time: 3274863.3536s
+2024-04-19 12:03:59,752 - INFO - 	iters: 1300, epoch: 1 | loss: 0.3525191
+2024-04-19 12:03:59,753 - INFO - 	speed: 0.1028s/iter; left time: 3281236.6193s
+2024-04-19 12:04:17,033 - INFO - 	iters: 1400, epoch: 1 | loss: 0.3552712
+2024-04-19 12:04:17,033 - INFO - 	speed: 0.1728s/iter; left time: 5515465.1876s
+2024-04-19 12:04:27,304 - INFO - 	iters: 1500, epoch: 1 | loss: 0.3559538
+2024-04-19 12:04:27,305 - INFO - 	speed: 0.1027s/iter; left time: 3278188.5288s
+2024-04-19 12:04:37,588 - INFO - 	iters: 1600, epoch: 1 | loss: 0.2890102
+2024-04-19 12:04:37,588 - INFO - 	speed: 0.1028s/iter; left time: 3282119.4516s
+2024-04-19 12:04:47,853 - INFO - 	iters: 1700, epoch: 1 | loss: 0.3810248
+2024-04-19 12:04:47,853 - INFO - 	speed: 0.1026s/iter; left time: 3276212.9573s
+2024-04-19 12:04:58,105 - INFO - 	iters: 1800, epoch: 1 | loss: 0.4480443
+2024-04-19 12:04:58,105 - INFO - 	speed: 0.1025s/iter; left time: 3272072.5802s
+2024-04-19 12:05:08,399 - INFO - 	iters: 1900, epoch: 1 | loss: 0.3917531
+2024-04-19 12:05:08,399 - INFO - 	speed: 0.1029s/iter; left time: 3285396.4245s
+2024-04-19 12:05:18,661 - INFO - 	iters: 2000, epoch: 1 | loss: 0.3678833
+2024-04-19 12:05:18,661 - INFO - 	speed: 0.1026s/iter; left time: 3275178.0240s
+2024-04-19 12:05:28,931 - INFO - 	iters: 2100, epoch: 1 | loss: 0.3980161
+2024-04-19 12:05:28,931 - INFO - 	speed: 0.1027s/iter; left time: 3277732.0510s
+2024-04-19 12:05:39,209 - INFO - 	iters: 2200, epoch: 1 | loss: 0.4408983
+2024-04-19 12:05:39,210 - INFO - 	speed: 0.1028s/iter; left time: 3280501.1788s
+2024-04-19 12:05:49,476 - INFO - 	iters: 2300, epoch: 1 | loss: 0.3197697
+2024-04-19 12:05:49,476 - INFO - 	speed: 0.1027s/iter; left time: 3276707.8389s
+2024-04-19 12:05:59,746 - INFO - 	iters: 2400, epoch: 1 | loss: 0.3513699
+2024-04-19 12:05:59,747 - INFO - 	speed: 0.1027s/iter; left time: 3277836.9157s
+2024-04-19 12:06:13,026 - INFO - 	iters: 2500, epoch: 1 | loss: 0.3300341
+2024-04-19 12:06:13,026 - INFO - 	speed: 0.1328s/iter; left time: 4238277.7041s
+2024-04-19 12:06:27,316 - INFO - 	iters: 2600, epoch: 1 | loss: 0.3268976
+2024-04-19 12:06:27,317 - INFO - 	speed: 0.1429s/iter; left time: 4560797.6578s
+2024-04-19 12:06:37,607 - INFO - 	iters: 2700, epoch: 1 | loss: 0.4084402
+2024-04-19 12:06:37,607 - INFO - 	speed: 0.1029s/iter; left time: 3284276.0205s
+2024-04-19 12:07:46,863 - INFO - 	iters: 2800, epoch: 1 | loss: 0.3629735
+2024-04-19 12:07:46,864 - INFO - 	speed: 0.6926s/iter; left time: 22103464.0523s
+2024-04-19 12:07:57,139 - INFO - 	iters: 2900, epoch: 1 | loss: 0.3439478
+2024-04-19 12:07:57,140 - INFO - 	speed: 0.1028s/iter; left time: 3279588.4123s
+2024-04-19 12:08:07,413 - INFO - 	iters: 3000, epoch: 1 | loss: 0.3245630
+2024-04-19 12:08:07,413 - INFO - 	speed: 0.1027s/iter; left time: 3278850.4708s
+2024-04-19 12:08:17,692 - INFO - 	iters: 3100, epoch: 1 | loss: 0.3945225
+2024-04-19 12:08:17,692 - INFO - 	speed: 0.1028s/iter; left time: 3280468.6320s
+2024-04-19 12:08:27,963 - INFO - 	iters: 3200, epoch: 1 | loss: 0.3497776
+2024-04-19 12:08:27,963 - INFO - 	speed: 0.1027s/iter; left time: 3278023.2037s
+2024-04-19 12:08:38,234 - INFO - 	iters: 3300, epoch: 1 | loss: 0.3240170
+2024-04-19 12:08:38,235 - INFO - 	speed: 0.1027s/iter; left time: 3278067.4137s
+2024-04-19 12:08:48,528 - INFO - 	iters: 3400, epoch: 1 | loss: 0.3753482
+2024-04-19 12:08:48,529 - INFO - 	speed: 0.1029s/iter; left time: 3285280.8240s
+2024-04-19 12:08:58,784 - INFO - 	iters: 3500, epoch: 1 | loss: 0.3968627
+2024-04-19 12:08:58,784 - INFO - 	speed: 0.1026s/iter; left time: 3272938.1499s
+2024-04-19 12:09:09,063 - INFO - 	iters: 3600, epoch: 1 | loss: 0.3247697
+2024-04-19 12:09:09,064 - INFO - 	speed: 0.1028s/iter; left time: 3280633.7914s
+2024-04-19 12:09:19,321 - INFO - 	iters: 3700, epoch: 1 | loss: 0.3833187
+2024-04-19 12:09:19,321 - INFO - 	speed: 0.1026s/iter; left time: 3273681.4318s
+2024-04-19 12:09:29,583 - INFO - 	iters: 3800, epoch: 1 | loss: 0.3870983
+2024-04-19 12:09:29,583 - INFO - 	speed: 0.1026s/iter; left time: 3275008.5295s
+2024-04-19 12:09:39,879 - INFO - 	iters: 3900, epoch: 1 | loss: 0.3124314
+2024-04-19 12:09:39,879 - INFO - 	speed: 0.1030s/iter; left time: 3285728.1980s
+2024-04-19 12:09:57,180 - INFO - 	iters: 4000, epoch: 1 | loss: 0.3640369
+2024-04-19 12:09:57,180 - INFO - 	speed: 0.1730s/iter; left time: 5521658.6434s
+2024-04-19 12:10:07,442 - INFO - 	iters: 4100, epoch: 1 | loss: 0.4466323
+2024-04-19 12:10:07,442 - INFO - 	speed: 0.1026s/iter; left time: 3274993.0379s
+2024-04-19 12:10:17,739 - INFO - 	iters: 4200, epoch: 1 | loss: 0.4333772
+2024-04-19 12:10:17,739 - INFO - 	speed: 0.1030s/iter; left time: 3285951.7529s
+2024-04-19 12:10:28,005 - INFO - 	iters: 4300, epoch: 1 | loss: 0.4654855
+2024-04-19 12:10:28,005 - INFO - 	speed: 0.1027s/iter; left time: 3276324.6858s
+2024-04-19 12:10:38,272 - INFO - 	iters: 4400, epoch: 1 | loss: 0.3244117
+2024-04-19 12:10:38,272 - INFO - 	speed: 0.1027s/iter; left time: 3276632.2411s
+2024-04-19 12:10:48,571 - INFO - 	iters: 4500, epoch: 1 | loss: 0.3548799
+2024-04-19 12:10:48,571 - INFO - 	speed: 0.1030s/iter; left time: 3286789.9434s
+2024-04-19 12:10:58,812 - INFO - 	iters: 4600, epoch: 1 | loss: 0.3221216
+2024-04-19 12:10:58,812 - INFO - 	speed: 0.1024s/iter; left time: 3268244.2384s
+2024-04-19 12:11:09,099 - INFO - 	iters: 4700, epoch: 1 | loss: 0.2858342
+2024-04-19 12:11:09,099 - INFO - 	speed: 0.1029s/iter; left time: 3282933.7637s
+2024-04-19 12:11:19,357 - INFO - 	iters: 4800, epoch: 1 | loss: 0.3735025
+2024-04-19 12:11:19,357 - INFO - 	speed: 0.1026s/iter; left time: 3273508.0319s
+2024-04-19 12:11:29,612 - INFO - 	iters: 4900, epoch: 1 | loss: 0.4529315
+2024-04-19 12:11:29,612 - INFO - 	speed: 0.1025s/iter; left time: 3272642.0212s
+2024-04-19 12:11:39,875 - INFO - 	iters: 5000, epoch: 1 | loss: 0.3723879
+2024-04-19 12:11:39,876 - INFO - 	speed: 0.1026s/iter; left time: 3275516.7572s
+2024-04-19 12:12:49,156 - INFO - 	iters: 5100, epoch: 1 | loss: 0.4304141
+2024-04-19 12:12:49,156 - INFO - 	speed: 0.6928s/iter; left time: 22109500.5264s
+2024-04-19 12:12:59,440 - INFO - 	iters: 5200, epoch: 1 | loss: 0.3970526
+2024-04-19 12:12:59,441 - INFO - 	speed: 0.1028s/iter; left time: 3282124.7353s
+2024-04-19 12:13:09,707 - INFO - 	iters: 5300, epoch: 1 | loss: 0.3133802
+2024-04-19 12:13:09,707 - INFO - 	speed: 0.1027s/iter; left time: 3276220.1223s
+2024-04-19 12:13:19,971 - INFO - 	iters: 5400, epoch: 1 | loss: 0.3285353
+2024-04-19 12:13:19,971 - INFO - 	speed: 0.1026s/iter; left time: 3275616.2328s
+2024-04-19 12:13:37,266 - INFO - 	iters: 5500, epoch: 1 | loss: 0.3665973
+2024-04-19 12:13:37,266 - INFO - 	speed: 0.1729s/iter; left time: 5519171.9360s
+2024-04-19 12:13:47,540 - INFO - 	iters: 5600, epoch: 1 | loss: 0.3410764
+2024-04-19 12:13:47,541 - INFO - 	speed: 0.1027s/iter; left time: 3278919.0459s
+2024-04-19 12:13:57,837 - INFO - 	iters: 5700, epoch: 1 | loss: 0.3647897
+2024-04-19 12:13:57,837 - INFO - 	speed: 0.1030s/iter; left time: 3285866.6226s
+2024-04-19 12:14:08,084 - INFO - 	iters: 5800, epoch: 1 | loss: 0.3514517
+2024-04-19 12:14:08,084 - INFO - 	speed: 0.1025s/iter; left time: 3270005.8230s
+2024-04-19 12:14:18,343 - INFO - 	iters: 5900, epoch: 1 | loss: 0.3590360
+2024-04-19 12:14:18,343 - INFO - 	speed: 0.1026s/iter; left time: 3273815.2642s
+2024-04-19 12:14:28,617 - INFO - 	iters: 6000, epoch: 1 | loss: 0.3399189
+2024-04-19 12:14:28,617 - INFO - 	speed: 0.1027s/iter; left time: 3278781.5479s
+2024-04-19 12:14:38,873 - INFO - 	iters: 6100, epoch: 1 | loss: 0.3800298
+2024-04-19 12:14:38,873 - INFO - 	speed: 0.1026s/iter; left time: 3272711.0768s
+2024-04-19 12:14:49,162 - INFO - 	iters: 6200, epoch: 1 | loss: 0.3780167
+2024-04-19 12:14:49,162 - INFO - 	speed: 0.1029s/iter; left time: 3283340.4274s
+2024-04-19 12:14:59,424 - INFO - 	iters: 6300, epoch: 1 | loss: 0.3596178
+2024-04-19 12:14:59,424 - INFO - 	speed: 0.1026s/iter; left time: 3274912.8246s
+2024-04-19 12:15:09,698 - INFO - 	iters: 6400, epoch: 1 | loss: 0.3575473
+2024-04-19 12:15:09,698 - INFO - 	speed: 0.1027s/iter; left time: 3278535.2528s
+2024-04-19 12:15:19,984 - INFO - 	iters: 6500, epoch: 1 | loss: 0.3222951
+2024-04-19 12:15:19,985 - INFO - 	speed: 0.1029s/iter; left time: 3282640.1032s
+2024-04-19 12:15:37,282 - INFO - 	iters: 6600, epoch: 1 | loss: 0.3817644
+2024-04-19 12:15:37,283 - INFO - 	speed: 0.1730s/iter; left time: 5520047.8491s
+2024-04-19 12:15:47,556 - INFO - 	iters: 6700, epoch: 1 | loss: 0.3258565
+2024-04-19 12:15:47,557 - INFO - 	speed: 0.1027s/iter; left time: 3278528.2455s
+2024-04-19 12:15:57,837 - INFO - 	iters: 6800, epoch: 1 | loss: 0.3094303
+2024-04-19 12:15:57,837 - INFO - 	speed: 0.1028s/iter; left time: 3280564.8248s
+2024-04-19 12:16:08,079 - INFO - 	iters: 6900, epoch: 1 | loss: 0.3035211
+2024-04-19 12:16:08,079 - INFO - 	speed: 0.1024s/iter; left time: 3268380.3603s
+2024-04-19 12:16:18,347 - INFO - 	iters: 7000, epoch: 1 | loss: 0.3684534
+2024-04-19 12:16:18,347 - INFO - 	speed: 0.1027s/iter; left time: 3276624.9643s
+2024-04-19 12:16:28,646 - INFO - 	iters: 7100, epoch: 1 | loss: 0.3055385
+2024-04-19 12:16:28,646 - INFO - 	speed: 0.1030s/iter; left time: 3286391.4607s
+2024-04-19 12:16:38,890 - INFO - 	iters: 7200, epoch: 1 | loss: 0.3548699
+2024-04-19 12:16:38,890 - INFO - 	speed: 0.1024s/iter; left time: 3269042.5106s
+2024-04-19 12:17:49,168 - INFO - 	iters: 7300, epoch: 1 | loss: 0.3395433
+2024-04-19 12:17:49,169 - INFO - 	speed: 0.7028s/iter; left time: 22426452.5232s
+2024-04-19 12:17:59,406 - INFO - 	iters: 7400, epoch: 1 | loss: 0.3215549
+2024-04-19 12:17:59,407 - INFO - 	speed: 0.1024s/iter; left time: 3267004.4226s
+2024-04-19 12:18:09,682 - INFO - 	iters: 7500, epoch: 1 | loss: 0.3561592
+2024-04-19 12:18:09,682 - INFO - 	speed: 0.1028s/iter; left time: 3278874.9238s
+2024-04-19 12:18:19,944 - INFO - 	iters: 7600, epoch: 1 | loss: 0.3968489
+2024-04-19 12:18:19,944 - INFO - 	speed: 0.1026s/iter; left time: 3274589.0598s
+2024-04-19 12:18:37,234 - INFO - 	iters: 7700, epoch: 1 | loss: 0.4622167
+2024-04-19 12:18:37,234 - INFO - 	speed: 0.1729s/iter; left time: 5517348.8153s
+2024-04-19 12:18:47,516 - INFO - 	iters: 7800, epoch: 1 | loss: 0.3502720
+2024-04-19 12:18:47,517 - INFO - 	speed: 0.1028s/iter; left time: 3281278.2883s
+2024-04-19 12:18:57,791 - INFO - 	iters: 7900, epoch: 1 | loss: 0.3848674
+2024-04-19 12:18:57,791 - INFO - 	speed: 0.1027s/iter; left time: 3278455.7052s
+2024-04-19 12:19:08,070 - INFO - 	iters: 8000, epoch: 1 | loss: 0.3795075
+2024-04-19 12:19:08,070 - INFO - 	speed: 0.1028s/iter; left time: 3280136.8384s
+2024-04-19 12:19:18,365 - INFO - 	iters: 8100, epoch: 1 | loss: 0.4353561
+2024-04-19 12:19:18,365 - INFO - 	speed: 0.1030s/iter; left time: 3285160.5947s
+2024-04-19 12:19:28,598 - INFO - 	iters: 8200, epoch: 1 | loss: 0.4043556
+2024-04-19 12:19:28,598 - INFO - 	speed: 0.1023s/iter; left time: 3265170.7156s
+2024-04-19 12:19:38,864 - INFO - 	iters: 8300, epoch: 1 | loss: 0.3021360
+2024-04-19 12:19:38,864 - INFO - 	speed: 0.1027s/iter; left time: 3275907.0411s
+2024-04-19 12:19:49,144 - INFO - 	iters: 8400, epoch: 1 | loss: 0.3352783
+2024-04-19 12:19:49,144 - INFO - 	speed: 0.1028s/iter; left time: 3280251.3787s
+2024-04-19 12:19:59,389 - INFO - 	iters: 8500, epoch: 1 | loss: 0.4007936
+2024-04-19 12:19:59,390 - INFO - 	speed: 0.1025s/iter; left time: 3269369.1547s
+2024-04-19 12:20:09,687 - INFO - 	iters: 8600, epoch: 1 | loss: 0.3717402
+2024-04-19 12:20:09,688 - INFO - 	speed: 0.1030s/iter; left time: 3286014.2244s
+2024-04-19 12:20:19,966 - INFO - 	iters: 8700, epoch: 1 | loss: 0.3609359
+2024-04-19 12:20:19,966 - INFO - 	speed: 0.1028s/iter; left time: 3279786.4373s
+2024-04-19 12:20:37,266 - INFO - 	iters: 8800, epoch: 1 | loss: 0.3232624
+2024-04-19 12:20:37,266 - INFO - 	speed: 0.1730s/iter; left time: 5520238.1074s
+2024-04-19 12:20:47,573 - INFO - 	iters: 8900, epoch: 1 | loss: 0.4219289
+2024-04-19 12:20:47,573 - INFO - 	speed: 0.1031s/iter; left time: 3288919.7018s
+2024-04-19 12:20:57,824 - INFO - 	iters: 9000, epoch: 1 | loss: 0.3707282
+2024-04-19 12:20:57,824 - INFO - 	speed: 0.1025s/iter; left time: 3270982.2729s
+2024-04-19 12:21:08,080 - INFO - 	iters: 9100, epoch: 1 | loss: 0.2762340
+2024-04-19 12:21:08,080 - INFO - 	speed: 0.1026s/iter; left time: 3272704.9091s
+2024-04-19 12:21:18,388 - INFO - 	iters: 9200, epoch: 1 | loss: 0.3276979
+2024-04-19 12:21:18,389 - INFO - 	speed: 0.1031s/iter; left time: 3289258.2864s
+2024-04-19 12:21:28,644 - INFO - 	iters: 9300, epoch: 1 | loss: 0.3089945
+2024-04-19 12:21:28,644 - INFO - 	speed: 0.1026s/iter; left time: 3272342.9639s
+2024-04-19 12:21:38,930 - INFO - 	iters: 9400, epoch: 1 | loss: 0.4250644
+2024-04-19 12:21:38,930 - INFO - 	speed: 0.1029s/iter; left time: 3282030.1814s
+2024-04-19 12:22:49,206 - INFO - 	iters: 9500, epoch: 1 | loss: 0.3834797
+2024-04-19 12:22:49,206 - INFO - 	speed: 0.7028s/iter; left time: 22424128.8241s
+2024-04-19 12:22:59,484 - INFO - 	iters: 9600, epoch: 1 | loss: 0.3809075
+2024-04-19 12:22:59,485 - INFO - 	speed: 0.1028s/iter; left time: 3279844.4862s
+2024-04-19 12:23:09,752 - INFO - 	iters: 9700, epoch: 1 | loss: 0.3100755
+2024-04-19 12:23:09,752 - INFO - 	speed: 0.1027s/iter; left time: 3276150.3891s
+2024-04-19 12:23:27,045 - INFO - 	iters: 9800, epoch: 1 | loss: 0.3782800
+2024-04-19 12:23:27,045 - INFO - 	speed: 0.1729s/iter; left time: 5517862.6467s
+2024-04-19 12:23:37,329 - INFO - 	iters: 9900, epoch: 1 | loss: 0.2899567
+2024-04-19 12:23:37,330 - INFO - 	speed: 0.1028s/iter; left time: 3281600.4306s
+2024-04-19 12:23:47,593 - INFO - 	iters: 10000, epoch: 1 | loss: 0.2844071
+2024-04-19 12:23:47,593 - INFO - 	speed: 0.1026s/iter; left time: 3274994.2845s
+2024-04-19 12:23:57,854 - INFO - 	iters: 10100, epoch: 1 | loss: 0.3500469
+2024-04-19 12:23:57,854 - INFO - 	speed: 0.1026s/iter; left time: 3273925.7436s
+2024-04-19 12:24:08,145 - INFO - 	iters: 10200, epoch: 1 | loss: 0.3894497
+2024-04-19 12:24:08,145 - INFO - 	speed: 0.1029s/iter; left time: 3283705.3716s
+2024-04-19 12:24:18,408 - INFO - 	iters: 10300, epoch: 1 | loss: 0.5383112
+2024-04-19 12:24:18,408 - INFO - 	speed: 0.1026s/iter; left time: 3274693.2770s
+2024-04-19 12:24:28,712 - INFO - 	iters: 10400, epoch: 1 | loss: 0.3259163
+2024-04-19 12:24:28,713 - INFO - 	speed: 0.1030s/iter; left time: 3287839.0451s
+2024-04-19 12:24:38,978 - INFO - 	iters: 10500, epoch: 1 | loss: 0.3149496
+2024-04-19 12:24:38,978 - INFO - 	speed: 0.1027s/iter; left time: 3275356.2750s
+2024-04-19 12:24:49,232 - INFO - 	iters: 10600, epoch: 1 | loss: 0.3082446
+2024-04-19 12:24:49,232 - INFO - 	speed: 0.1025s/iter; left time: 3271963.9276s
+2024-04-19 12:24:59,522 - INFO - 	iters: 10700, epoch: 1 | loss: 0.3967609
+2024-04-19 12:24:59,522 - INFO - 	speed: 0.1029s/iter; left time: 3283056.8917s
+2024-04-19 12:25:09,786 - INFO - 	iters: 10800, epoch: 1 | loss: 0.3202105
+2024-04-19 12:25:09,786 - INFO - 	speed: 0.1026s/iter; left time: 3275145.4145s
+2024-04-19 12:25:27,067 - INFO - 	iters: 10900, epoch: 1 | loss: 0.4123667
+2024-04-19 12:25:27,068 - INFO - 	speed: 0.1728s/iter; left time: 5513944.3955s
+2024-04-19 12:25:37,340 - INFO - 	iters: 11000, epoch: 1 | loss: 0.4086706
+2024-04-19 12:25:37,340 - INFO - 	speed: 0.1027s/iter; left time: 3277627.6010s
+2024-04-19 12:25:47,602 - INFO - 	iters: 11100, epoch: 1 | loss: 0.4380836
+2024-04-19 12:25:47,603 - INFO - 	speed: 0.1026s/iter; left time: 3274408.5924s
+2024-04-19 12:25:57,885 - INFO - 	iters: 11200, epoch: 1 | loss: 0.3635604
+2024-04-19 12:25:57,885 - INFO - 	speed: 0.1028s/iter; left time: 3280773.7906s
+2024-04-19 12:26:08,158 - INFO - 	iters: 11300, epoch: 1 | loss: 0.3982333
+2024-04-19 12:26:08,158 - INFO - 	speed: 0.1027s/iter; left time: 3277934.8478s
+2024-04-19 12:26:18,407 - INFO - 	iters: 11400, epoch: 1 | loss: 0.4018026
+2024-04-19 12:26:18,408 - INFO - 	speed: 0.1025s/iter; left time: 3270168.8321s
+2024-04-19 12:26:28,690 - INFO - 	iters: 11500, epoch: 1 | loss: 0.3048961
+2024-04-19 12:26:28,691 - INFO - 	speed: 0.1028s/iter; left time: 3280910.7574s
+2024-04-19 12:26:38,981 - INFO - 	iters: 11600, epoch: 1 | loss: 0.4344568
+2024-04-19 12:26:38,981 - INFO - 	speed: 0.1029s/iter; left time: 3283477.9212s
+2024-04-19 12:27:48,249 - INFO - 	iters: 11700, epoch: 1 | loss: 0.3155315
+2024-04-19 12:27:48,249 - INFO - 	speed: 0.6927s/iter; left time: 22100951.7163s
+2024-04-19 12:27:58,489 - INFO - 	iters: 11800, epoch: 1 | loss: 0.3494328
+2024-04-19 12:27:58,490 - INFO - 	speed: 0.1024s/iter; left time: 3267295.5680s
+2024-04-19 12:28:08,793 - INFO - 	iters: 11900, epoch: 1 | loss: 0.2985968
+2024-04-19 12:28:08,793 - INFO - 	speed: 0.1030s/iter; left time: 3287480.0047s
+2024-04-19 12:28:19,069 - INFO - 	iters: 12000, epoch: 1 | loss: 0.3838927
+2024-04-19 12:28:19,069 - INFO - 	speed: 0.1028s/iter; left time: 3278624.5497s
+2024-04-19 12:28:29,326 - INFO - 	iters: 12100, epoch: 1 | loss: 0.3826676
+2024-04-19 12:28:29,326 - INFO - 	speed: 0.1026s/iter; left time: 3272599.4893s
+2024-04-19 12:28:39,592 - INFO - 	iters: 12200, epoch: 1 | loss: 0.3388535
+2024-04-19 12:28:39,592 - INFO - 	speed: 0.1027s/iter; left time: 3275384.2662s
+2024-04-19 12:28:49,879 - INFO - 	iters: 12300, epoch: 1 | loss: 0.3141813
+2024-04-19 12:28:49,879 - INFO - 	speed: 0.1029s/iter; left time: 3282195.9979s
+2024-04-19 12:29:07,146 - INFO - 	iters: 12400, epoch: 1 | loss: 0.3033783
+2024-04-19 12:29:07,146 - INFO - 	speed: 0.1727s/iter; left time: 5509161.4859s
+2024-04-19 12:29:17,436 - INFO - 	iters: 12500, epoch: 1 | loss: 0.2806682
+2024-04-19 12:29:17,436 - INFO - 	speed: 0.1029s/iter; left time: 3282864.3817s
+2024-04-19 12:29:27,700 - INFO - 	iters: 12600, epoch: 1 | loss: 0.3931938
+2024-04-19 12:29:27,700 - INFO - 	speed: 0.1026s/iter; left time: 3274898.6568s
+2024-04-19 12:29:37,981 - INFO - 	iters: 12700, epoch: 1 | loss: 0.4572490
+2024-04-19 12:29:37,981 - INFO - 	speed: 0.1028s/iter; left time: 3280261.4249s
+2024-04-19 12:29:48,261 - INFO - 	iters: 12800, epoch: 1 | loss: 0.3093177
+2024-04-19 12:29:48,261 - INFO - 	speed: 0.1028s/iter; left time: 3279759.8940s
+2024-04-19 12:29:58,498 - INFO - 	iters: 12900, epoch: 1 | loss: 0.4304066
+2024-04-19 12:29:58,498 - INFO - 	speed: 0.1024s/iter; left time: 3266170.9143s
+2024-04-19 12:30:08,785 - INFO - 	iters: 13000, epoch: 1 | loss: 0.3260595
+2024-04-19 12:30:08,786 - INFO - 	speed: 0.1029s/iter; left time: 3282141.2556s
+2024-04-19 12:30:19,069 - INFO - 	iters: 13100, epoch: 1 | loss: 0.3566495
+2024-04-19 12:30:19,069 - INFO - 	speed: 0.1028s/iter; left time: 3280936.7057s
+2024-04-19 12:30:29,322 - INFO - 	iters: 13200, epoch: 1 | loss: 0.3135717
+2024-04-19 12:30:29,323 - INFO - 	speed: 0.1025s/iter; left time: 3271391.5195s
+2024-04-19 12:30:39,613 - INFO - 	iters: 13300, epoch: 1 | loss: 0.3774919
+2024-04-19 12:30:39,613 - INFO - 	speed: 0.1029s/iter; left time: 3283116.0787s
+2024-04-19 12:30:49,882 - INFO - 	iters: 13400, epoch: 1 | loss: 0.4078898
+2024-04-19 12:30:49,883 - INFO - 	speed: 0.1027s/iter; left time: 3276440.5719s
+2024-04-19 12:31:07,175 - INFO - 	iters: 13500, epoch: 1 | loss: 0.3765917
+2024-04-19 12:31:07,175 - INFO - 	speed: 0.1729s/iter; left time: 5517149.7122s
+2024-04-19 12:31:17,443 - INFO - 	iters: 13600, epoch: 1 | loss: 0.2961215
+2024-04-19 12:31:17,443 - INFO - 	speed: 0.1027s/iter; left time: 3275862.1614s
+2024-04-19 12:31:27,718 - INFO - 	iters: 13700, epoch: 1 | loss: 0.3133745
+2024-04-19 12:31:27,718 - INFO - 	speed: 0.1027s/iter; left time: 3278124.4492s
+2024-04-19 12:31:37,996 - INFO - 	iters: 13800, epoch: 1 | loss: 0.3253318
+2024-04-19 12:31:37,996 - INFO - 	speed: 0.1028s/iter; left time: 3279165.3308s
+2024-04-19 12:32:47,308 - INFO - 	iters: 13900, epoch: 1 | loss: 0.3797907
+2024-04-19 12:32:47,308 - INFO - 	speed: 0.6931s/iter; left time: 22113430.4687s
+2024-04-19 12:32:57,583 - INFO - 	iters: 14000, epoch: 1 | loss: 0.3468583
+2024-04-19 12:32:57,584 - INFO - 	speed: 0.1028s/iter; left time: 3278384.8798s
+2024-04-19 12:33:07,841 - INFO - 	iters: 14100, epoch: 1 | loss: 0.3626406
+2024-04-19 12:33:07,841 - INFO - 	speed: 0.1026s/iter; left time: 3272581.6987s
+2024-04-19 12:33:18,108 - INFO - 	iters: 14200, epoch: 1 | loss: 0.3398680
+2024-04-19 12:33:18,108 - INFO - 	speed: 0.1027s/iter; left time: 3275620.9657s
+2024-04-19 12:33:28,395 - INFO - 	iters: 14300, epoch: 1 | loss: 0.3823045
+2024-04-19 12:33:28,395 - INFO - 	speed: 0.1029s/iter; left time: 3281687.2134s
+2024-04-19 12:33:38,648 - INFO - 	iters: 14400, epoch: 1 | loss: 0.3557234
+2024-04-19 12:33:38,649 - INFO - 	speed: 0.1025s/iter; left time: 3271378.3904s
+2024-04-19 12:33:48,932 - INFO - 	iters: 14500, epoch: 1 | loss: 0.2863775
+2024-04-19 12:33:48,933 - INFO - 	speed: 0.1028s/iter; left time: 3280981.6816s
+2024-04-19 12:33:59,196 - INFO - 	iters: 14600, epoch: 1 | loss: 0.3785385
+2024-04-19 12:33:59,196 - INFO - 	speed: 0.1026s/iter; left time: 3274294.1856s
+2024-04-19 12:34:09,450 - INFO - 	iters: 14700, epoch: 1 | loss: 0.3663587
+2024-04-19 12:34:09,450 - INFO - 	speed: 0.1025s/iter; left time: 3271302.1426s
+2024-04-19 12:34:19,729 - INFO - 	iters: 14800, epoch: 1 | loss: 0.4475361
+2024-04-19 12:34:19,729 - INFO - 	speed: 0.1028s/iter; left time: 3279382.2453s
+2024-04-19 12:34:29,990 - INFO - 	iters: 14900, epoch: 1 | loss: 0.4189865
+2024-04-19 12:34:29,990 - INFO - 	speed: 0.1026s/iter; left time: 3273705.5473s
+2024-04-19 12:34:47,279 - INFO - 	iters: 15000, epoch: 1 | loss: 0.3210762
+2024-04-19 12:34:47,279 - INFO - 	speed: 0.1729s/iter; left time: 5515763.2194s
+2024-04-19 12:34:57,547 - INFO - 	iters: 15100, epoch: 1 | loss: 0.3651347
+2024-04-19 12:34:57,547 - INFO - 	speed: 0.1027s/iter; left time: 3275757.5871s
+2024-04-19 12:35:07,792 - INFO - 	iters: 15200, epoch: 1 | loss: 0.3213427
+2024-04-19 12:35:07,792 - INFO - 	speed: 0.1024s/iter; left time: 3268346.8007s
+2024-04-19 12:35:18,055 - INFO - 	iters: 15300, epoch: 1 | loss: 0.2714448
+2024-04-19 12:35:18,055 - INFO - 	speed: 0.1026s/iter; left time: 3274260.6794s
+2024-04-19 12:35:28,357 - INFO - 	iters: 15400, epoch: 1 | loss: 0.3617357
+2024-04-19 12:35:28,357 - INFO - 	speed: 0.1030s/iter; left time: 3286541.6882s
+2024-04-19 12:35:38,596 - INFO - 	iters: 15500, epoch: 1 | loss: 0.3843476
+2024-04-19 12:35:38,596 - INFO - 	speed: 0.1024s/iter; left time: 3266527.3175s
+2024-04-19 12:35:48,899 - INFO - 	iters: 15600, epoch: 1 | loss: 0.3678202
+2024-04-19 12:35:48,899 - INFO - 	speed: 0.1030s/iter; left time: 3286799.6988s
+2024-04-19 12:35:59,182 - INFO - 	iters: 15700, epoch: 1 | loss: 0.3532226
+2024-04-19 12:35:59,182 - INFO - 	speed: 0.1028s/iter; left time: 3280456.5927s
+2024-04-19 12:36:09,452 - INFO - 	iters: 15800, epoch: 1 | loss: 0.3779759
+2024-04-19 12:36:09,452 - INFO - 	speed: 0.1027s/iter; left time: 3276384.7152s
+2024-04-19 12:36:19,736 - INFO - 	iters: 15900, epoch: 1 | loss: 0.3431793
+2024-04-19 12:36:19,736 - INFO - 	speed: 0.1028s/iter; left time: 3280747.9534s
+2024-04-19 12:36:30,004 - INFO - 	iters: 16000, epoch: 1 | loss: 0.2557070
+2024-04-19 12:36:30,004 - INFO - 	speed: 0.1027s/iter; left time: 3275789.8402s
+2024-04-19 12:37:46,323 - INFO - 	iters: 16100, epoch: 1 | loss: 0.3550172
+2024-04-19 12:37:46,323 - INFO - 	speed: 0.7632s/iter; left time: 24347379.9804s
+2024-04-19 12:37:49,573 - INFO - 	iters: 16200, epoch: 1 | loss: 0.3439355
+2024-04-19 12:37:49,573 - INFO - 	speed: 0.0325s/iter; left time: 1036854.0514s
+2024-04-19 12:37:59,848 - INFO - 	iters: 16300, epoch: 1 | loss: 0.3176678
+2024-04-19 12:37:59,849 - INFO - 	speed: 0.1028s/iter; left time: 3277950.1737s
+2024-04-19 12:38:17,138 - INFO - 	iters: 16400, epoch: 1 | loss: 0.2992871
+2024-04-19 12:38:17,138 - INFO - 	speed: 0.1729s/iter; left time: 5515600.8833s
+2024-04-19 12:38:27,415 - INFO - 	iters: 16500, epoch: 1 | loss: 0.3095097
+2024-04-19 12:38:27,416 - INFO - 	speed: 0.1028s/iter; left time: 3278710.8315s
+2024-04-19 12:38:37,708 - INFO - 	iters: 16600, epoch: 1 | loss: 0.3300347
+2024-04-19 12:38:37,709 - INFO - 	speed: 0.1029s/iter; left time: 3283604.0999s
+2024-04-19 12:38:47,972 - INFO - 	iters: 16700, epoch: 1 | loss: 0.3681871
+2024-04-19 12:38:47,972 - INFO - 	speed: 0.1026s/iter; left time: 3274276.5665s
+2024-04-19 12:38:58,245 - INFO - 	iters: 16800, epoch: 1 | loss: 0.4245781
+2024-04-19 12:38:58,245 - INFO - 	speed: 0.1027s/iter; left time: 3277071.0496s
+2024-04-19 12:39:08,517 - INFO - 	iters: 16900, epoch: 1 | loss: 0.3545402
+2024-04-19 12:39:08,517 - INFO - 	speed: 0.1027s/iter; left time: 3277013.8489s
+2024-04-19 12:39:18,749 - INFO - 	iters: 17000, epoch: 1 | loss: 0.3195646
+2024-04-19 12:39:18,749 - INFO - 	speed: 0.1023s/iter; left time: 3264091.3719s
+2024-04-19 12:39:29,032 - INFO - 	iters: 17100, epoch: 1 | loss: 0.3508491
+2024-04-19 12:39:29,033 - INFO - 	speed: 0.1028s/iter; left time: 3280495.3258s
+2024-04-19 12:39:39,303 - INFO - 	iters: 17200, epoch: 1 | loss: 0.4772353
+2024-04-19 12:39:39,304 - INFO - 	speed: 0.1027s/iter; left time: 3276499.2275s
+2024-04-19 12:39:49,569 - INFO - 	iters: 17300, epoch: 1 | loss: 0.3483937
+2024-04-19 12:39:49,570 - INFO - 	speed: 0.1027s/iter; left time: 3274922.5488s
+2024-04-19 12:39:59,850 - INFO - 	iters: 17400, epoch: 1 | loss: 0.3236287
+2024-04-19 12:39:59,850 - INFO - 	speed: 0.1028s/iter; left time: 3279479.6080s
+2024-04-19 12:40:17,167 - INFO - 	iters: 17500, epoch: 1 | loss: 0.2958356
+2024-04-19 12:40:17,167 - INFO - 	speed: 0.1732s/iter; left time: 5524165.1886s
+2024-04-19 12:40:27,467 - INFO - 	iters: 17600, epoch: 1 | loss: 0.3374069
+2024-04-19 12:40:27,467 - INFO - 	speed: 0.1030s/iter; left time: 3285789.2683s
+2024-04-19 12:40:37,745 - INFO - 	iters: 17700, epoch: 1 | loss: 0.3012228
+2024-04-19 12:40:37,745 - INFO - 	speed: 0.1028s/iter; left time: 3278835.5980s
+2024-04-19 12:40:47,988 - INFO - 	iters: 17800, epoch: 1 | loss: 0.3666009
+2024-04-19 12:40:47,989 - INFO - 	speed: 0.1024s/iter; left time: 3267649.5041s
+2024-04-19 12:40:58,266 - INFO - 	iters: 17900, epoch: 1 | loss: 0.3523753
+2024-04-19 12:40:58,266 - INFO - 	speed: 0.1028s/iter; left time: 3278414.8334s
+2024-04-19 12:41:08,561 - INFO - 	iters: 18000, epoch: 1 | loss: 0.3880590
+2024-04-19 12:41:08,562 - INFO - 	speed: 0.1030s/iter; left time: 3284348.6374s
+2024-04-19 12:41:18,828 - INFO - 	iters: 18100, epoch: 1 | loss: 0.3825627
+2024-04-19 12:41:18,828 - INFO - 	speed: 0.1027s/iter; left time: 3274931.9926s
+2024-04-19 12:41:29,108 - INFO - 	iters: 18200, epoch: 1 | loss: 0.3591425
+2024-04-19 12:41:29,108 - INFO - 	speed: 0.1028s/iter; left time: 3279282.1420s
+2024-04-19 12:41:39,380 - INFO - 	iters: 18300, epoch: 1 | loss: 0.3767282
+2024-04-19 12:41:39,380 - INFO - 	speed: 0.1027s/iter; left time: 3276763.6347s
+2024-04-19 12:42:58,659 - INFO - 	iters: 18400, epoch: 1 | loss: 0.3699210
+2024-04-19 12:42:58,660 - INFO - 	speed: 0.7928s/iter; left time: 25290045.8594s
+2024-04-19 12:43:08,957 - INFO - 	iters: 18500, epoch: 1 | loss: 0.3799371
+2024-04-19 12:43:08,957 - INFO - 	speed: 0.1030s/iter; left time: 3284861.4857s
+2024-04-19 12:43:19,232 - INFO - 	iters: 18600, epoch: 1 | loss: 0.3278679
+2024-04-19 12:43:19,232 - INFO - 	speed: 0.1027s/iter; left time: 3277534.5859s
+2024-04-19 12:43:29,484 - INFO - 	iters: 18700, epoch: 1 | loss: 0.2866925
+2024-04-19 12:43:29,484 - INFO - 	speed: 0.1025s/iter; left time: 3270417.3378s
+2024-04-19 12:43:39,772 - INFO - 	iters: 18800, epoch: 1 | loss: 0.2937016
+2024-04-19 12:43:39,773 - INFO - 	speed: 0.1029s/iter; left time: 3281944.9487s
+2024-04-19 12:43:57,067 - INFO - 	iters: 18900, epoch: 1 | loss: 0.3651746
+2024-04-19 12:43:57,067 - INFO - 	speed: 0.1729s/iter; left time: 5516869.2910s
+2024-04-19 12:44:07,366 - INFO - 	iters: 19000, epoch: 1 | loss: 0.3074033
+2024-04-19 12:44:07,366 - INFO - 	speed: 0.1030s/iter; left time: 3285133.9107s
+2024-04-19 12:44:17,653 - INFO - 	iters: 19100, epoch: 1 | loss: 0.3684547
+2024-04-19 12:44:17,653 - INFO - 	speed: 0.1029s/iter; left time: 3281555.8720s
+2024-04-19 12:44:27,924 - INFO - 	iters: 19200, epoch: 1 | loss: 0.3361993
+2024-04-19 12:44:27,924 - INFO - 	speed: 0.1027s/iter; left time: 3276332.5218s
+2024-04-19 12:44:38,202 - INFO - 	iters: 19300, epoch: 1 | loss: 0.3188886
+2024-04-19 12:44:38,202 - INFO - 	speed: 0.1028s/iter; left time: 3278560.3358s
+2024-04-19 12:44:48,503 - INFO - 	iters: 19400, epoch: 1 | loss: 0.5628787
+2024-04-19 12:44:48,503 - INFO - 	speed: 0.1030s/iter; left time: 3285748.2908s
+2024-04-19 12:44:58,767 - INFO - 	iters: 19500, epoch: 1 | loss: 0.2699677
+2024-04-19 12:44:58,767 - INFO - 	speed: 0.1026s/iter; left time: 3274060.5199s
+2024-04-19 12:45:09,067 - INFO - 	iters: 19600, epoch: 1 | loss: 0.3609379
+2024-04-19 12:45:09,068 - INFO - 	speed: 0.1030s/iter; left time: 3285694.9872s
+2024-04-19 12:45:19,334 - INFO - 	iters: 19700, epoch: 1 | loss: 0.4426694
+2024-04-19 12:45:19,334 - INFO - 	speed: 0.1027s/iter; left time: 3274962.8064s
+2024-04-19 12:45:29,621 - INFO - 	iters: 19800, epoch: 1 | loss: 0.3064587
+2024-04-19 12:45:29,621 - INFO - 	speed: 0.1029s/iter; left time: 3281363.2428s
+2024-04-19 12:45:39,915 - INFO - 	iters: 19900, epoch: 1 | loss: 0.3081293
+2024-04-19 12:45:39,915 - INFO - 	speed: 0.1029s/iter; left time: 3283532.2110s
+2024-04-19 12:45:57,233 - INFO - 	iters: 20000, epoch: 1 | loss: 0.2880446
+2024-04-19 12:45:57,233 - INFO - 	speed: 0.1732s/iter; left time: 5524140.4368s
+2024-04-19 12:46:07,500 - INFO - 	iters: 20100, epoch: 1 | loss: 0.3202727
+2024-04-19 12:46:07,500 - INFO - 	speed: 0.1027s/iter; left time: 3274873.4468s
+2024-04-19 12:46:17,801 - INFO - 	iters: 20200, epoch: 1 | loss: 0.3268399
+2024-04-19 12:46:17,801 - INFO - 	speed: 0.1030s/iter; left time: 3285738.6670s
+2024-04-19 12:46:28,051 - INFO - 	iters: 20300, epoch: 1 | loss: 0.3817281
+2024-04-19 12:46:28,051 - INFO - 	speed: 0.1025s/iter; left time: 3269606.5681s
+2024-04-19 12:46:38,344 - INFO - 	iters: 20400, epoch: 1 | loss: 0.3593955
+2024-04-19 12:46:38,344 - INFO - 	speed: 0.1029s/iter; left time: 3283087.0299s
+2024-04-19 12:47:57,644 - INFO - 	iters: 20500, epoch: 1 | loss: 0.3507187
+2024-04-19 12:47:57,644 - INFO - 	speed: 0.7930s/iter; left time: 25294991.5613s
+2024-04-19 12:48:07,914 - INFO - 	iters: 20600, epoch: 1 | loss: 0.3191535
+2024-04-19 12:48:07,915 - INFO - 	speed: 0.1027s/iter; left time: 3275969.7050s
+2024-04-19 12:48:18,201 - INFO - 	iters: 20700, epoch: 1 | loss: 0.4488835
+2024-04-19 12:48:18,202 - INFO - 	speed: 0.1029s/iter; left time: 3281267.9988s
+2024-04-19 12:48:28,477 - INFO - 	iters: 20800, epoch: 1 | loss: 0.3800193
+2024-04-19 12:48:28,478 - INFO - 	speed: 0.1028s/iter; left time: 3277734.3464s
+2024-04-19 12:48:38,725 - INFO - 	iters: 20900, epoch: 1 | loss: 0.2987995
+2024-04-19 12:48:38,725 - INFO - 	speed: 0.1025s/iter; left time: 3268519.4687s
+2024-04-19 12:48:49,009 - INFO - 	iters: 21000, epoch: 1 | loss: 0.3107260
+2024-04-19 12:48:49,009 - INFO - 	speed: 0.1028s/iter; left time: 3280509.2745s
+2024-04-19 12:48:59,290 - INFO - 	iters: 21100, epoch: 1 | loss: 0.3507745
+2024-04-19 12:48:59,291 - INFO - 	speed: 0.1028s/iter; left time: 3279346.3971s
+2024-04-19 12:49:09,539 - INFO - 	iters: 21200, epoch: 1 | loss: 0.3562662
+2024-04-19 12:49:09,539 - INFO - 	speed: 0.1025s/iter; left time: 3268904.3321s
+2024-04-19 12:49:19,834 - INFO - 	iters: 21300, epoch: 1 | loss: 0.3449033
+2024-04-19 12:49:19,835 - INFO - 	speed: 0.1030s/iter; left time: 3283917.6977s
+2024-04-19 12:49:37,135 - INFO - 	iters: 21400, epoch: 1 | loss: 0.3124941
+2024-04-19 12:49:37,136 - INFO - 	speed: 0.1730s/iter; left time: 5518473.1835s
+2024-04-19 12:49:47,424 - INFO - 	iters: 21500, epoch: 1 | loss: 0.2701512
+2024-04-19 12:49:47,424 - INFO - 	speed: 0.1029s/iter; left time: 3281701.7629s
+2024-04-19 12:49:57,712 - INFO - 	iters: 21600, epoch: 1 | loss: 0.2808594
+2024-04-19 12:49:57,712 - INFO - 	speed: 0.1029s/iter; left time: 3281389.7943s
+2024-04-19 12:50:07,961 - INFO - 	iters: 21700, epoch: 1 | loss: 0.2975472
+2024-04-19 12:50:07,961 - INFO - 	speed: 0.1025s/iter; left time: 3269227.0145s
+2024-04-19 12:50:18,246 - INFO - 	iters: 21800, epoch: 1 | loss: 0.5296969
+2024-04-19 12:50:18,247 - INFO - 	speed: 0.1029s/iter; left time: 3280606.6964s
+2024-04-19 12:50:28,549 - INFO - 	iters: 21900, epoch: 1 | loss: 0.3643466
+2024-04-19 12:50:28,549 - INFO - 	speed: 0.1030s/iter; left time: 3286068.5041s
+2024-04-19 12:50:38,779 - INFO - 	iters: 22000, epoch: 1 | loss: 0.3261907
+2024-04-19 12:50:38,779 - INFO - 	speed: 0.1023s/iter; left time: 3262973.5356s
+2024-04-19 12:50:49,082 - INFO - 	iters: 22100, epoch: 1 | loss: 0.4047233
+2024-04-19 12:50:49,082 - INFO - 	speed: 0.1030s/iter; left time: 3286179.3073s
+2024-04-19 12:50:59,361 - INFO - 	iters: 22200, epoch: 1 | loss: 0.5097142
+2024-04-19 12:50:59,361 - INFO - 	speed: 0.1028s/iter; left time: 3278610.9455s
+2024-04-19 12:51:09,622 - INFO - 	iters: 22300, epoch: 1 | loss: 0.4836966
+2024-04-19 12:51:09,622 - INFO - 	speed: 0.1026s/iter; left time: 3272878.5276s
+2024-04-19 12:51:19,916 - INFO - 	iters: 22400, epoch: 1 | loss: 0.2934330
+2024-04-19 12:51:19,916 - INFO - 	speed: 0.1029s/iter; left time: 3283190.6848s
+2024-04-19 12:51:37,236 - INFO - 	iters: 22500, epoch: 1 | loss: 0.4399565
+2024-04-19 12:51:37,236 - INFO - 	speed: 0.1732s/iter; left time: 5524312.1981s
+2024-04-19 12:52:46,522 - INFO - 	iters: 22600, epoch: 1 | loss: 0.2911143
+2024-04-19 12:52:46,522 - INFO - 	speed: 0.6929s/iter; left time: 22099136.1515s
+2024-04-19 12:52:49,772 - INFO - 	iters: 22700, epoch: 1 | loss: 0.5541750
+2024-04-19 12:52:49,772 - INFO - 	speed: 0.0325s/iter; left time: 1036666.8997s
+2024-04-19 12:53:07,067 - INFO - 	iters: 22800, epoch: 1 | loss: 0.3090989
+2024-04-19 12:53:07,067 - INFO - 	speed: 0.1730s/iter; left time: 5516396.0900s
+2024-04-19 12:53:17,345 - INFO - 	iters: 22900, epoch: 1 | loss: 0.3531641
+2024-04-19 12:53:17,345 - INFO - 	speed: 0.1028s/iter; left time: 3277979.9141s
+2024-04-19 12:53:27,617 - INFO - 	iters: 23000, epoch: 1 | loss: 0.3447722
+2024-04-19 12:53:27,617 - INFO - 	speed: 0.1027s/iter; left time: 3276345.1831s
+2024-04-19 12:53:37,908 - INFO - 	iters: 23100, epoch: 1 | loss: 0.3404891
+2024-04-19 12:53:37,908 - INFO - 	speed: 0.1029s/iter; left time: 3282272.7946s
+2024-04-19 12:53:48,185 - INFO - 	iters: 23200, epoch: 1 | loss: 0.3148750
+2024-04-19 12:53:48,185 - INFO - 	speed: 0.1028s/iter; left time: 3277851.0620s
+2024-04-19 12:53:58,482 - INFO - 	iters: 23300, epoch: 1 | loss: 0.4338652
+2024-04-19 12:53:58,482 - INFO - 	speed: 0.1030s/iter; left time: 3284248.2754s
+2024-04-19 12:54:08,899 - INFO - 	iters: 23400, epoch: 1 | loss: 0.3701531
+2024-04-19 12:54:08,899 - INFO - 	speed: 0.1042s/iter; left time: 3322440.1464s
+2024-04-19 12:54:19,167 - INFO - 	iters: 23500, epoch: 1 | loss: 0.3067402
+2024-04-19 12:54:19,167 - INFO - 	speed: 0.1027s/iter; left time: 3274922.3884s
+2024-04-19 12:54:29,548 - INFO - 	iters: 23600, epoch: 1 | loss: 0.7508246
+2024-04-19 12:54:29,549 - INFO - 	speed: 0.1038s/iter; left time: 3311038.9211s
+2024-04-19 12:54:39,817 - INFO - 	iters: 23700, epoch: 1 | loss: 0.3875867
+2024-04-19 12:54:39,817 - INFO - 	speed: 0.1027s/iter; left time: 3274989.6055s
+2024-04-19 12:54:57,181 - INFO - 	iters: 23800, epoch: 1 | loss: 0.2906577
+2024-04-19 12:54:57,182 - INFO - 	speed: 0.1736s/iter; left time: 5538332.0962s
+2024-04-19 12:55:07,482 - INFO - 	iters: 23900, epoch: 1 | loss: 0.2744071
+2024-04-19 12:55:07,483 - INFO - 	speed: 0.1030s/iter; left time: 3285486.8860s
+2024-04-19 12:55:17,772 - INFO - 	iters: 24000, epoch: 1 | loss: 0.2765341
+2024-04-19 12:55:17,772 - INFO - 	speed: 0.1029s/iter; left time: 3281619.3696s
+2024-04-19 12:55:28,059 - INFO - 	iters: 24100, epoch: 1 | loss: 0.2760187
+2024-04-19 12:55:28,059 - INFO - 	speed: 0.1029s/iter; left time: 3280930.4865s
+2024-04-19 12:55:38,356 - INFO - 	iters: 24200, epoch: 1 | loss: 0.3196624
+2024-04-19 12:55:38,356 - INFO - 	speed: 0.1030s/iter; left time: 3284087.6207s
+2024-04-19 12:55:48,612 - INFO - 	iters: 24300, epoch: 1 | loss: 0.3386695
+2024-04-19 12:55:48,612 - INFO - 	speed: 0.1026s/iter; left time: 3270952.4976s
+2024-04-19 12:55:58,925 - INFO - 	iters: 24400, epoch: 1 | loss: 0.3714744
+2024-04-19 12:55:58,925 - INFO - 	speed: 0.1031s/iter; left time: 3289254.4506s
+2024-04-19 12:56:09,198 - INFO - 	iters: 24500, epoch: 1 | loss: 0.3795909
+2024-04-19 12:56:09,199 - INFO - 	speed: 0.1027s/iter; left time: 3276402.1122s
+2024-04-19 12:56:37,704 - INFO - 	iters: 24600, epoch: 1 | loss: 0.3189813
+2024-04-19 12:56:37,705 - INFO - 	speed: 0.2850s/iter; left time: 9091210.6256s
+2024-04-19 12:57:47,973 - INFO - 	iters: 24700, epoch: 1 | loss: 0.3429697
+2024-04-19 12:57:47,973 - INFO - 	speed: 0.7027s/iter; left time: 22411114.0542s
+2024-04-19 12:57:58,265 - INFO - 	iters: 24800, epoch: 1 | loss: 0.3330214
+2024-04-19 12:57:58,266 - INFO - 	speed: 0.1029s/iter; left time: 3282515.9932s
+2024-04-19 12:58:08,527 - INFO - 	iters: 24900, epoch: 1 | loss: 0.3205444
+2024-04-19 12:58:08,527 - INFO - 	speed: 0.1026s/iter; left time: 3272743.2868s
+2024-04-19 12:58:18,823 - INFO - 	iters: 25000, epoch: 1 | loss: 0.2874465
+2024-04-19 12:58:18,823 - INFO - 	speed: 0.1030s/iter; left time: 3283644.2870s
+2024-04-19 12:58:29,111 - INFO - 	iters: 25100, epoch: 1 | loss: 0.3733073
+2024-04-19 12:58:29,112 - INFO - 	speed: 0.1029s/iter; left time: 3281337.9152s
+2024-04-19 12:58:39,367 - INFO - 	iters: 25200, epoch: 1 | loss: 0.3295669
+2024-04-19 12:58:39,367 - INFO - 	speed: 0.1026s/iter; left time: 3270776.5533s
+2024-04-19 12:58:49,660 - INFO - 	iters: 25300, epoch: 1 | loss: 0.3269355
+2024-04-19 12:58:49,660 - INFO - 	speed: 0.1029s/iter; left time: 3282646.4168s
+2024-04-19 12:58:59,934 - INFO - 	iters: 25400, epoch: 1 | loss: 0.2836724
+2024-04-19 12:58:59,934 - INFO - 	speed: 0.1027s/iter; left time: 3276645.6698s
+2024-04-19 12:59:17,213 - INFO - 	iters: 25500, epoch: 1 | loss: 0.3506736
+2024-04-19 12:59:17,214 - INFO - 	speed: 0.1728s/iter; left time: 5510881.4028s
+2024-04-19 12:59:27,477 - INFO - 	iters: 25600, epoch: 1 | loss: 0.3731945
+2024-04-19 12:59:27,477 - INFO - 	speed: 0.1026s/iter; left time: 3273418.0720s
+2024-04-19 12:59:37,734 - INFO - 	iters: 25700, epoch: 1 | loss: 0.3256398
+2024-04-19 12:59:37,734 - INFO - 	speed: 0.1026s/iter; left time: 3271001.2926s
+2024-04-19 12:59:48,010 - INFO - 	iters: 25800, epoch: 1 | loss: 0.3009057
+2024-04-19 12:59:48,011 - INFO - 	speed: 0.1028s/iter; left time: 3277442.7344s
+2024-04-19 12:59:58,294 - INFO - 	iters: 25900, epoch: 1 | loss: 0.3363141
+2024-04-19 12:59:58,294 - INFO - 	speed: 0.1028s/iter; left time: 3279596.4757s
+2024-04-19 13:00:08,542 - INFO - 	iters: 26000, epoch: 1 | loss: 0.2640629
+2024-04-19 13:00:08,542 - INFO - 	speed: 0.1025s/iter; left time: 3268397.6619s
+2024-04-19 13:00:18,833 - INFO - 	iters: 26100, epoch: 1 | loss: 0.3956553
+2024-04-19 13:00:18,833 - INFO - 	speed: 0.1029s/iter; left time: 3281844.8440s
+2024-04-19 13:00:29,109 - INFO - 	iters: 26200, epoch: 1 | loss: 0.4170292
+2024-04-19 13:00:29,109 - INFO - 	speed: 0.1028s/iter; left time: 3277342.4718s
+2024-04-19 13:00:39,347 - INFO - 	iters: 26300, epoch: 1 | loss: 0.3855531
+2024-04-19 13:00:39,348 - INFO - 	speed: 0.1024s/iter; left time: 3265180.7715s
+2024-04-19 13:00:49,617 - INFO - 	iters: 26400, epoch: 1 | loss: 0.5104489
+2024-04-19 13:00:49,617 - INFO - 	speed: 0.1027s/iter; left time: 3275095.5856s
+2024-04-19 13:00:59,888 - INFO - 	iters: 26500, epoch: 1 | loss: 0.3170490
+2024-04-19 13:00:59,888 - INFO - 	speed: 0.1027s/iter; left time: 3275552.7839s
+2024-04-19 13:01:17,180 - INFO - 	iters: 26600, epoch: 1 | loss: 0.3207536
+2024-04-19 13:01:17,180 - INFO - 	speed: 0.1729s/iter; left time: 5514779.7578s
+2024-04-19 13:01:27,476 - INFO - 	iters: 26700, epoch: 1 | loss: 0.2942391
+2024-04-19 13:01:27,477 - INFO - 	speed: 0.1030s/iter; left time: 3283567.4968s
+2024-04-19 13:01:37,720 - INFO - 	iters: 26800, epoch: 1 | loss: 0.2965307
+2024-04-19 13:01:37,721 - INFO - 	speed: 0.1024s/iter; left time: 3266934.5756s
+2024-04-19 13:02:47,001 - INFO - 	iters: 26900, epoch: 1 | loss: 0.3110307
+2024-04-19 13:02:47,001 - INFO - 	speed: 0.6928s/iter; left time: 22094314.9936s
+2024-04-19 13:02:57,272 - INFO - 	iters: 27000, epoch: 1 | loss: 0.2987984
+2024-04-19 13:02:57,272 - INFO - 	speed: 0.1027s/iter; left time: 3275521.9589s
+2024-04-19 13:03:07,547 - INFO - 	iters: 27100, epoch: 1 | loss: 0.3169531
+2024-04-19 13:03:07,547 - INFO - 	speed: 0.1027s/iter; left time: 3276779.5601s
+2024-04-19 13:03:17,819 - INFO - 	iters: 27200, epoch: 1 | loss: 0.3978083
+2024-04-19 13:03:17,820 - INFO - 	speed: 0.1027s/iter; left time: 3276116.3046s
+2024-04-19 13:03:28,084 - INFO - 	iters: 27300, epoch: 1 | loss: 0.3009470
+2024-04-19 13:03:28,085 - INFO - 	speed: 0.1026s/iter; left time: 3273563.6125s
+2024-04-19 13:03:38,360 - INFO - 	iters: 27400, epoch: 1 | loss: 0.4383175
+2024-04-19 13:03:38,360 - INFO - 	speed: 0.1028s/iter; left time: 3277016.5257s
+2024-04-19 13:03:48,594 - INFO - 	iters: 27500, epoch: 1 | loss: 0.3614528
+2024-04-19 13:03:48,595 - INFO - 	speed: 0.1023s/iter; left time: 3263715.1631s
+2024-04-19 13:03:58,867 - INFO - 	iters: 27600, epoch: 1 | loss: 0.2981329
+2024-04-19 13:03:58,867 - INFO - 	speed: 0.1027s/iter; left time: 3275845.2891s
+2024-04-19 13:04:09,132 - INFO - 	iters: 27700, epoch: 1 | loss: 0.4203915
+2024-04-19 13:04:09,132 - INFO - 	speed: 0.1027s/iter; left time: 3273583.4553s
+2024-04-19 13:04:19,392 - INFO - 	iters: 27800, epoch: 1 | loss: 0.3187685
+2024-04-19 13:04:19,392 - INFO - 	speed: 0.1026s/iter; left time: 3271986.1609s
+2024-04-19 13:04:29,676 - INFO - 	iters: 27900, epoch: 1 | loss: 0.3878289
+2024-04-19 13:04:29,676 - INFO - 	speed: 0.1028s/iter; left time: 3279501.8161s
+2024-04-19 13:04:39,930 - INFO - 	iters: 28000, epoch: 1 | loss: 0.4313936
+2024-04-19 13:04:39,930 - INFO - 	speed: 0.1025s/iter; left time: 3269990.4771s
+2024-04-19 13:04:57,205 - INFO - 	iters: 28100, epoch: 1 | loss: 0.4671460
+2024-04-19 13:04:57,205 - INFO - 	speed: 0.1728s/iter; left time: 5509142.5597s
+2024-04-19 13:05:07,412 - INFO - 	iters: 28200, epoch: 1 | loss: 0.3758574
+2024-04-19 13:05:07,412 - INFO - 	speed: 0.1021s/iter; left time: 3254874.5621s
+2024-04-19 13:05:17,688 - INFO - 	iters: 28300, epoch: 1 | loss: 0.2778696
+2024-04-19 13:05:17,689 - INFO - 	speed: 0.1028s/iter; left time: 3277178.9015s
+2024-04-19 13:05:27,924 - INFO - 	iters: 28400, epoch: 1 | loss: 0.3055824
+2024-04-19 13:05:27,925 - INFO - 	speed: 0.1024s/iter; left time: 3264229.0253s
+2024-04-19 13:05:38,165 - INFO - 	iters: 28500, epoch: 1 | loss: 0.3650033
+2024-04-19 13:05:38,165 - INFO - 	speed: 0.1024s/iter; left time: 3265645.2824s
+2024-04-19 13:05:48,438 - INFO - 	iters: 28600, epoch: 1 | loss: 0.2883352
+2024-04-19 13:05:48,438 - INFO - 	speed: 0.1027s/iter; left time: 3275889.9153s
+2024-04-19 13:05:58,734 - INFO - 	iters: 28700, epoch: 1 | loss: 0.2964231
+2024-04-19 13:05:58,734 - INFO - 	speed: 0.1030s/iter; left time: 3283333.5204s
+2024-04-19 13:06:09,010 - INFO - 	iters: 28800, epoch: 1 | loss: 0.3019288
+2024-04-19 13:06:09,011 - INFO - 	speed: 0.1028s/iter; left time: 3277127.2147s
+2024-04-19 13:06:19,257 - INFO - 	iters: 28900, epoch: 1 | loss: 0.3086625
+2024-04-19 13:06:19,257 - INFO - 	speed: 0.1025s/iter; left time: 3267516.2475s
+2024-04-19 13:06:29,552 - INFO - 	iters: 29000, epoch: 1 | loss: 0.3268189
+2024-04-19 13:06:29,553 - INFO - 	speed: 0.1030s/iter; left time: 3283163.6500s
+2024-04-19 13:06:39,815 - INFO - 	iters: 29100, epoch: 1 | loss: 0.5239472
+2024-04-19 13:06:39,816 - INFO - 	speed: 0.1026s/iter; left time: 3272709.5565s
+2024-04-19 13:07:49,081 - INFO - 	iters: 29200, epoch: 1 | loss: 0.4394197
+2024-04-19 13:07:49,081 - INFO - 	speed: 0.6927s/iter; left time: 22088174.6956s
+2024-04-19 13:07:59,347 - INFO - 	iters: 29300, epoch: 1 | loss: 0.4736668
+2024-04-19 13:07:59,347 - INFO - 	speed: 0.1027s/iter; left time: 3273663.1914s
+2024-04-19 13:08:09,616 - INFO - 	iters: 29400, epoch: 1 | loss: 0.3011669
+2024-04-19 13:08:09,616 - INFO - 	speed: 0.1027s/iter; left time: 3274490.6111s
+2024-04-19 13:08:19,871 - INFO - 	iters: 29500, epoch: 1 | loss: 0.3289971
+2024-04-19 13:08:19,871 - INFO - 	speed: 0.1026s/iter; left time: 3270332.6791s
+2024-04-19 13:08:37,159 - INFO - 	iters: 29600, epoch: 1 | loss: 0.3039067
+2024-04-19 13:08:37,159 - INFO - 	speed: 0.1729s/iter; left time: 5512732.3639s
+2024-04-19 13:08:47,439 - INFO - 	iters: 29700, epoch: 1 | loss: 0.2969989
+2024-04-19 13:08:47,439 - INFO - 	speed: 0.1028s/iter; left time: 3278285.2362s
+2024-04-19 13:08:57,716 - INFO - 	iters: 29800, epoch: 1 | loss: 0.3474255
+2024-04-19 13:08:57,716 - INFO - 	speed: 0.1028s/iter; left time: 3276980.3531s
+2024-04-19 13:09:07,983 - INFO - 	iters: 29900, epoch: 1 | loss: 0.3220196
+2024-04-19 13:09:07,983 - INFO - 	speed: 0.1027s/iter; left time: 3273894.6068s
+2024-04-19 13:09:18,259 - INFO - 	iters: 30000, epoch: 1 | loss: 0.3584794
+2024-04-19 13:09:18,259 - INFO - 	speed: 0.1028s/iter; left time: 3276935.7756s
+2024-04-19 13:09:28,511 - INFO - 	iters: 30100, epoch: 1 | loss: 0.3533399
+2024-04-19 13:09:28,512 - INFO - 	speed: 0.1025s/iter; left time: 3269287.8871s
+2024-04-19 13:09:38,775 - INFO - 	iters: 30200, epoch: 1 | loss: 0.3923717
+2024-04-19 13:09:38,776 - INFO - 	speed: 0.1026s/iter; left time: 3272980.6018s
+2024-04-19 13:09:49,049 - INFO - 	iters: 30300, epoch: 1 | loss: 0.3380314
+2024-04-19 13:09:49,049 - INFO - 	speed: 0.1027s/iter; left time: 3275948.2269s
+2024-04-19 13:09:59,297 - INFO - 	iters: 30400, epoch: 1 | loss: 0.3999164
+2024-04-19 13:09:59,297 - INFO - 	speed: 0.1025s/iter; left time: 3267928.1117s
+2024-04-19 13:10:09,592 - INFO - 	iters: 30500, epoch: 1 | loss: 0.3712417
+2024-04-19 13:10:09,592 - INFO - 	speed: 0.1029s/iter; left time: 3282774.9803s
+2024-04-19 13:10:19,861 - INFO - 	iters: 30600, epoch: 1 | loss: 0.3546583
+2024-04-19 13:10:19,862 - INFO - 	speed: 0.1027s/iter; left time: 3274589.0812s
+2024-04-19 13:10:37,144 - INFO - 	iters: 30700, epoch: 1 | loss: 0.3664120
+2024-04-19 13:10:37,144 - INFO - 	speed: 0.1728s/iter; left time: 5510872.9049s
+2024-04-19 13:10:47,433 - INFO - 	iters: 30800, epoch: 1 | loss: 0.2803656
+2024-04-19 13:10:47,434 - INFO - 	speed: 0.1029s/iter; left time: 3281085.0677s
+2024-04-19 13:10:57,687 - INFO - 	iters: 30900, epoch: 1 | loss: 0.4072068
+2024-04-19 13:10:57,687 - INFO - 	speed: 0.1025s/iter; left time: 3269636.1710s
+2024-04-19 13:11:07,959 - INFO - 	iters: 31000, epoch: 1 | loss: 0.4263505
+2024-04-19 13:11:07,959 - INFO - 	speed: 0.1027s/iter; left time: 3275409.9762s
+2024-04-19 13:11:18,225 - INFO - 	iters: 31100, epoch: 1 | loss: 0.3094015
+2024-04-19 13:11:18,225 - INFO - 	speed: 0.1027s/iter; left time: 3273439.8617s
+2024-04-19 13:11:28,471 - INFO - 	iters: 31200, epoch: 1 | loss: 0.4082369
+2024-04-19 13:11:28,471 - INFO - 	speed: 0.1025s/iter; left time: 3267145.7881s
+2024-04-19 13:11:38,729 - INFO - 	iters: 31300, epoch: 1 | loss: 0.2521091
+2024-04-19 13:11:38,729 - INFO - 	speed: 0.1026s/iter; left time: 3270902.5459s
+2024-04-19 13:12:49,027 - INFO - 	iters: 31400, epoch: 1 | loss: 0.4464854
+2024-04-19 13:12:49,028 - INFO - 	speed: 0.7030s/iter; left time: 22415881.1649s
+2024-04-19 13:12:59,303 - INFO - 	iters: 31500, epoch: 1 | loss: 0.2842520
+2024-04-19 13:12:59,303 - INFO - 	speed: 0.1028s/iter; left time: 3276486.6583s
+2024-04-19 13:13:09,551 - INFO - 	iters: 31600, epoch: 1 | loss: 0.3177258
+2024-04-19 13:13:09,551 - INFO - 	speed: 0.1025s/iter; left time: 3267718.0862s
+2024-04-19 13:13:19,802 - INFO - 	iters: 31700, epoch: 1 | loss: 0.2852655
+2024-04-19 13:13:19,802 - INFO - 	speed: 0.1025s/iter; left time: 3268766.9955s
+2024-04-19 13:13:37,077 - INFO - 	iters: 31800, epoch: 1 | loss: 0.3267546
+2024-04-19 13:13:37,078 - INFO - 	speed: 0.1728s/iter; left time: 5508378.0839s
+2024-04-19 13:13:47,347 - INFO - 	iters: 31900, epoch: 1 | loss: 0.4003350
+2024-04-19 13:13:47,348 - INFO - 	speed: 0.1027s/iter; left time: 3274701.2120s
+2024-04-19 13:13:57,620 - INFO - 	iters: 32000, epoch: 1 | loss: 0.3415602
+2024-04-19 13:13:57,620 - INFO - 	speed: 0.1027s/iter; left time: 3275532.1325s
+2024-04-19 13:14:07,897 - INFO - 	iters: 32100, epoch: 1 | loss: 0.2578005
+2024-04-19 13:14:07,897 - INFO - 	speed: 0.1028s/iter; left time: 3276990.8405s
+2024-04-19 13:14:18,154 - INFO - 	iters: 32200, epoch: 1 | loss: 0.3480844
+2024-04-19 13:14:18,154 - INFO - 	speed: 0.1026s/iter; left time: 3270506.8211s
+2024-04-19 13:14:28,405 - INFO - 	iters: 32300, epoch: 1 | loss: 0.3493387
+2024-04-19 13:14:28,405 - INFO - 	speed: 0.1025s/iter; left time: 3268483.7321s
+2024-04-19 13:14:38,704 - INFO - 	iters: 32400, epoch: 1 | loss: 0.3815159
+2024-04-19 13:14:38,704 - INFO - 	speed: 0.1030s/iter; left time: 3283934.6174s
+2024-04-19 13:14:48,958 - INFO - 	iters: 32500, epoch: 1 | loss: 0.2605136
+2024-04-19 13:14:48,959 - INFO - 	speed: 0.1025s/iter; left time: 3269641.1831s
+2024-04-19 13:14:59,234 - INFO - 	iters: 32600, epoch: 1 | loss: 0.3493927
+2024-04-19 13:14:59,234 - INFO - 	speed: 0.1028s/iter; left time: 3276351.8108s
+2024-04-19 13:15:09,515 - INFO - 	iters: 32700, epoch: 1 | loss: 0.2931450
+2024-04-19 13:15:09,515 - INFO - 	speed: 0.1028s/iter; left time: 3278294.5139s
+2024-04-19 13:15:19,777 - INFO - 	iters: 32800, epoch: 1 | loss: 0.3720086
+2024-04-19 13:15:19,777 - INFO - 	speed: 0.1026s/iter; left time: 3271964.1738s
+2024-04-19 13:15:37,045 - INFO - 	iters: 32900, epoch: 1 | loss: 0.3664580
+2024-04-19 13:15:37,045 - INFO - 	speed: 0.1727s/iter; left time: 5505964.6877s
+2024-04-19 13:15:47,335 - INFO - 	iters: 33000, epoch: 1 | loss: 0.3032095
+2024-04-19 13:15:47,335 - INFO - 	speed: 0.1029s/iter; left time: 3280930.0035s
+2024-04-19 13:15:57,594 - INFO - 	iters: 33100, epoch: 1 | loss: 0.3368918
+2024-04-19 13:15:57,594 - INFO - 	speed: 0.1026s/iter; left time: 3271163.3063s
+2024-04-19 13:16:07,862 - INFO - 	iters: 33200, epoch: 1 | loss: 0.3374707
+2024-04-19 13:16:07,862 - INFO - 	speed: 0.1027s/iter; left time: 3273818.7562s
+2024-04-19 13:16:18,126 - INFO - 	iters: 33300, epoch: 1 | loss: 0.3492783
+2024-04-19 13:16:18,126 - INFO - 	speed: 0.1026s/iter; left time: 3272684.7679s
+2024-04-19 13:16:28,396 - INFO - 	iters: 33400, epoch: 1 | loss: 0.4031832
+2024-04-19 13:16:28,396 - INFO - 	speed: 0.1027s/iter; left time: 3274467.2668s
+2024-04-19 13:16:38,683 - INFO - 	iters: 33500, epoch: 1 | loss: 0.3596513
+2024-04-19 13:16:38,683 - INFO - 	speed: 0.1029s/iter; left time: 3279868.4893s
+2024-04-19 13:17:57,964 - INFO - 	iters: 33600, epoch: 1 | loss: 0.2675136
+2024-04-19 13:17:57,964 - INFO - 	speed: 0.7928s/iter; left time: 25278524.2178s
+2024-04-19 13:18:08,203 - INFO - 	iters: 33700, epoch: 1 | loss: 0.3269661
+2024-04-19 13:18:08,204 - INFO - 	speed: 0.1024s/iter; left time: 3264800.4953s
+2024-04-19 13:18:18,483 - INFO - 	iters: 33800, epoch: 1 | loss: 0.4614924
+2024-04-19 13:18:18,483 - INFO - 	speed: 0.1028s/iter; left time: 3277480.9849s
+2024-04-19 13:18:28,733 - INFO - 	iters: 33900, epoch: 1 | loss: 0.2988046
+2024-04-19 13:18:28,733 - INFO - 	speed: 0.1025s/iter; left time: 3268203.4154s
+2024-04-19 13:18:39,015 - INFO - 	iters: 34000, epoch: 1 | loss: 0.3078851
+2024-04-19 13:18:39,015 - INFO - 	speed: 0.1028s/iter; left time: 3278182.9001s
+2024-04-19 13:18:49,286 - INFO - 	iters: 34100, epoch: 1 | loss: 0.3408460
+2024-04-19 13:18:49,286 - INFO - 	speed: 0.1027s/iter; left time: 3274836.9654s
+2024-04-19 13:18:59,537 - INFO - 	iters: 34200, epoch: 1 | loss: 0.3314013
+2024-04-19 13:18:59,537 - INFO - 	speed: 0.1025s/iter; left time: 3268493.9143s
+2024-04-19 13:19:09,812 - INFO - 	iters: 34300, epoch: 1 | loss: 0.3057440
+2024-04-19 13:19:09,812 - INFO - 	speed: 0.1028s/iter; left time: 3276078.9920s
+2024-04-19 13:19:27,103 - INFO - 	iters: 34400, epoch: 1 | loss: 0.3549041
+2024-04-19 13:19:27,103 - INFO - 	speed: 0.1729s/iter; left time: 5512880.5228s
+2024-04-19 13:19:37,371 - INFO - 	iters: 34500, epoch: 1 | loss: 0.3924982
+2024-04-19 13:19:37,371 - INFO - 	speed: 0.1027s/iter; left time: 3273770.1122s
+2024-04-19 13:19:47,616 - INFO - 	iters: 34600, epoch: 1 | loss: 0.3213580
+2024-04-19 13:19:47,616 - INFO - 	speed: 0.1025s/iter; left time: 3266542.6166s
+2024-04-19 13:19:57,860 - INFO - 	iters: 34700, epoch: 1 | loss: 0.2651669
+2024-04-19 13:19:57,861 - INFO - 	speed: 0.1024s/iter; left time: 3266259.3972s
+2024-04-19 13:20:08,141 - INFO - 	iters: 34800, epoch: 1 | loss: 0.3244117
+2024-04-19 13:20:08,142 - INFO - 	speed: 0.1028s/iter; left time: 3277930.6762s
+2024-04-19 13:20:18,394 - INFO - 	iters: 34900, epoch: 1 | loss: 0.4441217
+2024-04-19 13:20:18,394 - INFO - 	speed: 0.1025s/iter; left time: 3268893.6813s
+2024-04-19 13:20:28,671 - INFO - 	iters: 35000, epoch: 1 | loss: 0.3046395
+2024-04-19 13:20:28,671 - INFO - 	speed: 0.1028s/iter; left time: 3276417.2463s
+2024-04-19 13:20:38,945 - INFO - 	iters: 35100, epoch: 1 | loss: 0.2917321
+2024-04-19 13:20:38,946 - INFO - 	speed: 0.1027s/iter; left time: 3275857.4559s
+2024-04-19 13:20:49,229 - INFO - 	iters: 35200, epoch: 1 | loss: 0.3688275
+2024-04-19 13:20:49,230 - INFO - 	speed: 0.1028s/iter; left time: 3278861.1759s
+2024-04-19 13:20:59,516 - INFO - 	iters: 35300, epoch: 1 | loss: 0.3692460
+2024-04-19 13:20:59,516 - INFO - 	speed: 0.1029s/iter; left time: 3279603.5900s
+2024-04-19 13:21:09,795 - INFO - 	iters: 35400, epoch: 1 | loss: 0.4517252
+2024-04-19 13:21:09,796 - INFO - 	speed: 0.1028s/iter; left time: 3277383.1814s
+2024-04-19 13:21:19,986 - INFO - 	iters: 35500, epoch: 1 | loss: 0.3211182
+2024-04-19 13:21:19,986 - INFO - 	speed: 0.1019s/iter; left time: 3249056.4414s
+2024-04-19 13:21:37,282 - INFO - 	iters: 35600, epoch: 1 | loss: 0.3094829
+2024-04-19 13:21:37,282 - INFO - 	speed: 0.1730s/iter; left time: 5514224.1790s
+2024-04-19 13:22:49,565 - INFO - 	iters: 35700, epoch: 1 | loss: 0.2904323
+2024-04-19 13:22:49,565 - INFO - 	speed: 0.7228s/iter; left time: 23045664.9861s
+2024-04-19 13:22:59,835 - INFO - 	iters: 35800, epoch: 1 | loss: 0.3370328
+2024-04-19 13:22:59,835 - INFO - 	speed: 0.1027s/iter; left time: 3274288.5225s
+2024-04-19 13:23:17,142 - INFO - 	iters: 35900, epoch: 1 | loss: 0.2854755
+2024-04-19 13:23:17,142 - INFO - 	speed: 0.1731s/iter; left time: 5517849.5136s
+2024-04-19 13:23:27,434 - INFO - 	iters: 36000, epoch: 1 | loss: 0.3045460
+2024-04-19 13:23:27,434 - INFO - 	speed: 0.1029s/iter; left time: 3281417.3940s
+2024-04-19 13:23:37,692 - INFO - 	iters: 36100, epoch: 1 | loss: 0.3341964
+2024-04-19 13:23:37,692 - INFO - 	speed: 0.1026s/iter; left time: 3270410.7024s
+2024-04-19 13:23:47,953 - INFO - 	iters: 36200, epoch: 1 | loss: 0.3188051
+2024-04-19 13:23:47,953 - INFO - 	speed: 0.1026s/iter; left time: 3271419.0896s
+2024-04-19 13:23:58,232 - INFO - 	iters: 36300, epoch: 1 | loss: 0.3491392
+2024-04-19 13:23:58,232 - INFO - 	speed: 0.1028s/iter; left time: 3277029.5637s
+2024-04-19 13:24:08,495 - INFO - 	iters: 36400, epoch: 1 | loss: 0.3302351
+2024-04-19 13:24:08,495 - INFO - 	speed: 0.1026s/iter; left time: 3272000.0516s
+2024-04-19 13:24:18,770 - INFO - 	iters: 36500, epoch: 1 | loss: 0.3185883
+2024-04-19 13:24:18,770 - INFO - 	speed: 0.1027s/iter; left time: 3275755.3422s
+2024-04-19 13:24:29,028 - INFO - 	iters: 36600, epoch: 1 | loss: 0.4620594
+2024-04-19 13:24:29,029 - INFO - 	speed: 0.1026s/iter; left time: 3270568.5214s
+2024-04-19 13:24:39,308 - INFO - 	iters: 36700, epoch: 1 | loss: 0.3852416
+2024-04-19 13:24:39,308 - INFO - 	speed: 0.1028s/iter; left time: 3277318.1106s
+2024-04-19 13:24:49,607 - INFO - 	iters: 36800, epoch: 1 | loss: 0.3794216
+2024-04-19 13:24:49,607 - INFO - 	speed: 0.1030s/iter; left time: 3283361.9697s
+2024-04-19 13:24:59,875 - INFO - 	iters: 36900, epoch: 1 | loss: 0.3644760
+2024-04-19 13:24:59,876 - INFO - 	speed: 0.1027s/iter; left time: 3273718.1198s
+2024-04-19 13:25:17,148 - INFO - 	iters: 37000, epoch: 1 | loss: 0.4223144
+2024-04-19 13:25:17,148 - INFO - 	speed: 0.1727s/iter; left time: 5506632.6442s
+2024-04-19 13:25:27,407 - INFO - 	iters: 37100, epoch: 1 | loss: 0.2851186
+2024-04-19 13:25:27,408 - INFO - 	speed: 0.1026s/iter; left time: 3270835.5608s
+2024-04-19 13:25:37,701 - INFO - 	iters: 37200, epoch: 1 | loss: 0.4759789
+2024-04-19 13:25:37,701 - INFO - 	speed: 0.1029s/iter; left time: 3281566.1548s
+2024-04-19 13:25:47,961 - INFO - 	iters: 37300, epoch: 1 | loss: 0.3325234
+2024-04-19 13:25:47,962 - INFO - 	speed: 0.1026s/iter; left time: 3271202.7688s
+2024-04-19 13:25:58,234 - INFO - 	iters: 37400, epoch: 1 | loss: 0.3863550
+2024-04-19 13:25:58,234 - INFO - 	speed: 0.1027s/iter; left time: 3274859.4466s
+2024-04-19 13:26:08,509 - INFO - 	iters: 37500, epoch: 1 | loss: 0.3264878
+2024-04-19 13:26:08,509 - INFO - 	speed: 0.1028s/iter; left time: 3275812.8230s
+2024-04-19 13:26:18,763 - INFO - 	iters: 37600, epoch: 1 | loss: 0.3530629
+2024-04-19 13:26:18,763 - INFO - 	speed: 0.1025s/iter; left time: 3269013.3993s
+2024-04-19 13:26:29,048 - INFO - 	iters: 37700, epoch: 1 | loss: 0.4682266
+2024-04-19 13:26:29,048 - INFO - 	speed: 0.1028s/iter; left time: 3278794.4775s
+2024-04-19 13:26:39,324 - INFO - 	iters: 37800, epoch: 1 | loss: 0.3274351
+2024-04-19 13:26:39,325 - INFO - 	speed: 0.1028s/iter; left time: 3276224.4446s
+2024-04-19 13:27:48,599 - INFO - 	iters: 37900, epoch: 1 | loss: 0.3991499
+2024-04-19 13:27:48,599 - INFO - 	speed: 0.6927s/iter; left time: 22084843.8337s
+2024-04-19 13:27:58,871 - INFO - 	iters: 38000, epoch: 1 | loss: 0.3660141
+2024-04-19 13:27:58,871 - INFO - 	speed: 0.1027s/iter; left time: 3274663.2027s
+2024-04-19 13:28:09,169 - INFO - 	iters: 38100, epoch: 1 | loss: 0.3198948
+2024-04-19 13:28:09,169 - INFO - 	speed: 0.1030s/iter; left time: 3283136.6492s
+2024-04-19 13:28:19,415 - INFO - 	iters: 38200, epoch: 1 | loss: 0.3513058
+2024-04-19 13:28:19,415 - INFO - 	speed: 0.1025s/iter; left time: 3266462.9228s
+2024-04-19 13:28:29,679 - INFO - 	iters: 38300, epoch: 1 | loss: 0.2993924
+2024-04-19 13:28:29,679 - INFO - 	speed: 0.1026s/iter; left time: 3271946.2785s
+2024-04-19 13:28:39,938 - INFO - 	iters: 38400, epoch: 1 | loss: 0.3299828
+2024-04-19 13:28:39,938 - INFO - 	speed: 0.1026s/iter; left time: 3270483.8944s
+2024-04-19 13:28:57,229 - INFO - 	iters: 38500, epoch: 1 | loss: 0.6102926
+2024-04-19 13:28:57,230 - INFO - 	speed: 0.1729s/iter; left time: 5512541.0815s
+2024-04-19 13:29:07,497 - INFO - 	iters: 38600, epoch: 1 | loss: 0.3033588
+2024-04-19 13:29:07,497 - INFO - 	speed: 0.1027s/iter; left time: 3273164.3577s
+2024-04-19 13:29:17,776 - INFO - 	iters: 38700, epoch: 1 | loss: 0.3203759
+2024-04-19 13:29:17,776 - INFO - 	speed: 0.1028s/iter; left time: 3276838.9690s
+2024-04-19 13:29:28,029 - INFO - 	iters: 38800, epoch: 1 | loss: 0.2955619
+2024-04-19 13:29:28,029 - INFO - 	speed: 0.1025s/iter; left time: 3268641.2031s
+2024-04-19 13:29:38,316 - INFO - 	iters: 38900, epoch: 1 | loss: 0.4682573
+2024-04-19 13:29:38,316 - INFO - 	speed: 0.1029s/iter; left time: 3279521.5710s
+2024-04-19 13:29:48,578 - INFO - 	iters: 39000, epoch: 1 | loss: 0.3140028
+2024-04-19 13:29:48,578 - INFO - 	speed: 0.1026s/iter; left time: 3271323.6200s
+2024-04-19 13:29:58,811 - INFO - 	iters: 39100, epoch: 1 | loss: 0.2921739
+2024-04-19 13:29:58,812 - INFO - 	speed: 0.1023s/iter; left time: 3262287.1495s
+2024-04-19 13:30:09,100 - INFO - 	iters: 39200, epoch: 1 | loss: 0.3188013
+2024-04-19 13:30:09,100 - INFO - 	speed: 0.1029s/iter; left time: 3279816.7725s
+2024-04-19 13:30:19,365 - INFO - 	iters: 39300, epoch: 1 | loss: 0.3231936
+2024-04-19 13:30:19,366 - INFO - 	speed: 0.1027s/iter; left time: 3272566.8347s
+2024-04-19 13:30:29,650 - INFO - 	iters: 39400, epoch: 1 | loss: 0.3968870
+2024-04-19 13:30:29,650 - INFO - 	speed: 0.1028s/iter; left time: 3278545.7618s
+2024-04-19 13:30:39,921 - INFO - 	iters: 39500, epoch: 1 | loss: 0.4023339
+2024-04-19 13:30:39,921 - INFO - 	speed: 0.1027s/iter; left time: 3274310.0696s
+2024-04-19 13:30:57,209 - INFO - 	iters: 39600, epoch: 1 | loss: 0.3171017
+2024-04-19 13:30:57,209 - INFO - 	speed: 0.1729s/iter; left time: 5510951.3258s
+2024-04-19 13:31:07,470 - INFO - 	iters: 39700, epoch: 1 | loss: 0.4321728
+2024-04-19 13:31:07,470 - INFO - 	speed: 0.1026s/iter; left time: 3271031.5283s
+2024-04-19 13:31:17,748 - INFO - 	iters: 39800, epoch: 1 | loss: 0.3314643
+2024-04-19 13:31:17,748 - INFO - 	speed: 0.1028s/iter; left time: 3276478.9648s
+2024-04-19 13:31:27,975 - INFO - 	iters: 39900, epoch: 1 | loss: 0.2897529
+2024-04-19 13:31:27,975 - INFO - 	speed: 0.1023s/iter; left time: 3260320.2370s
+2024-04-19 13:31:38,244 - INFO - 	iters: 40000, epoch: 1 | loss: 0.3564868
+2024-04-19 13:31:38,244 - INFO - 	speed: 0.1027s/iter; left time: 3273528.9277s
+2024-04-19 13:32:57,539 - INFO - 	iters: 40100, epoch: 1 | loss: 0.5681905
+2024-04-19 13:32:57,539 - INFO - 	speed: 0.7930s/iter; left time: 25277766.9654s
+2024-04-19 13:33:07,794 - INFO - 	iters: 40200, epoch: 1 | loss: 0.2959549
+2024-04-19 13:33:07,795 - INFO - 	speed: 0.1026s/iter; left time: 3269106.5197s
+2024-04-19 13:33:18,045 - INFO - 	iters: 40300, epoch: 1 | loss: 0.2647798
+2024-04-19 13:33:18,045 - INFO - 	speed: 0.1025s/iter; left time: 3267664.6752s
+2024-04-19 13:33:28,304 - INFO - 	iters: 40400, epoch: 1 | loss: 0.3148845
+2024-04-19 13:33:28,305 - INFO - 	speed: 0.1026s/iter; left time: 3270442.5040s
+2024-04-19 13:33:38,555 - INFO - 	iters: 40500, epoch: 1 | loss: 0.4557061
+2024-04-19 13:33:38,555 - INFO - 	speed: 0.1025s/iter; left time: 3267683.0873s
+2024-04-19 13:33:48,847 - INFO - 	iters: 40600, epoch: 1 | loss: 0.3258641
+2024-04-19 13:33:48,847 - INFO - 	speed: 0.1029s/iter; left time: 3280612.5021s
+2024-04-19 13:33:59,088 - INFO - 	iters: 40700, epoch: 1 | loss: 0.3388608
+2024-04-19 13:33:59,089 - INFO - 	speed: 0.1024s/iter; left time: 3264869.8967s
+2024-04-19 13:34:09,340 - INFO - 	iters: 40800, epoch: 1 | loss: 0.3781731
+2024-04-19 13:34:09,341 - INFO - 	speed: 0.1025s/iter; left time: 3268005.9709s
+2024-04-19 13:34:19,602 - INFO - 	iters: 40900, epoch: 1 | loss: 0.3398517
+2024-04-19 13:34:19,603 - INFO - 	speed: 0.1026s/iter; left time: 3271251.9234s
+2024-04-19 13:34:29,882 - INFO - 	iters: 41000, epoch: 1 | loss: 0.2828971
+2024-04-19 13:34:29,882 - INFO - 	speed: 0.1028s/iter; left time: 3276688.2092s
+2024-04-19 13:34:47,172 - INFO - 	iters: 41100, epoch: 1 | loss: 0.3374605
+2024-04-19 13:34:47,172 - INFO - 	speed: 0.1729s/iter; left time: 5511696.8245s
+2024-04-19 13:34:57,468 - INFO - 	iters: 41200, epoch: 1 | loss: 0.2621590
+2024-04-19 13:34:57,468 - INFO - 	speed: 0.1030s/iter; left time: 3282025.4719s
+2024-04-19 13:35:07,727 - INFO - 	iters: 41300, epoch: 1 | loss: 0.2686333
+2024-04-19 13:35:07,727 - INFO - 	speed: 0.1026s/iter; left time: 3270189.9613s
+2024-04-19 13:35:18,005 - INFO - 	iters: 41400, epoch: 1 | loss: 0.2998703
+2024-04-19 13:35:18,005 - INFO - 	speed: 0.1028s/iter; left time: 3276338.8360s
+2024-04-19 13:35:28,292 - INFO - 	iters: 41500, epoch: 1 | loss: 0.2789539
+2024-04-19 13:35:28,292 - INFO - 	speed: 0.1029s/iter; left time: 3278878.4331s
+2024-04-19 13:35:38,540 - INFO - 	iters: 41600, epoch: 1 | loss: 0.3586025
+2024-04-19 13:35:38,540 - INFO - 	speed: 0.1025s/iter; left time: 3266717.5367s
+2024-04-19 13:35:48,837 - INFO - 	iters: 41700, epoch: 1 | loss: 0.3335436
+2024-04-19 13:35:48,837 - INFO - 	speed: 0.1030s/iter; left time: 3282501.3529s
+2024-04-19 13:35:59,103 - INFO - 	iters: 41800, epoch: 1 | loss: 0.2805029
+2024-04-19 13:35:59,103 - INFO - 	speed: 0.1027s/iter; left time: 3272198.3233s
+2024-04-19 13:36:09,336 - INFO - 	iters: 41900, epoch: 1 | loss: 0.3319699
+2024-04-19 13:36:09,336 - INFO - 	speed: 0.1023s/iter; left time: 3262019.0846s
+2024-04-19 13:36:19,617 - INFO - 	iters: 42000, epoch: 1 | loss: 0.3196186
+2024-04-19 13:36:19,617 - INFO - 	speed: 0.1028s/iter; left time: 3277053.6468s
+2024-04-19 13:36:29,872 - INFO - 	iters: 42100, epoch: 1 | loss: 0.3440045
+2024-04-19 13:36:29,872 - INFO - 	speed: 0.1025s/iter; left time: 3268885.7582s
+2024-04-19 13:36:47,143 - INFO - 	iters: 42200, epoch: 1 | loss: 0.2767240
+2024-04-19 13:36:47,143 - INFO - 	speed: 0.1727s/iter; left time: 5505445.8404s
+2024-04-19 13:37:59,435 - INFO - 	iters: 42300, epoch: 1 | loss: 0.2884341
+2024-04-19 13:37:59,435 - INFO - 	speed: 0.7229s/iter; left time: 23043588.8880s
+2024-04-19 13:38:09,690 - INFO - 	iters: 42400, epoch: 1 | loss: 0.3320321
+2024-04-19 13:38:09,690 - INFO - 	speed: 0.1026s/iter; left time: 3268885.6964s
+2024-04-19 13:38:19,963 - INFO - 	iters: 42500, epoch: 1 | loss: 0.3027158
+2024-04-19 13:38:19,963 - INFO - 	speed: 0.1027s/iter; left time: 3274643.9627s
+2024-04-19 13:38:37,272 - INFO - 	iters: 42600, epoch: 1 | loss: 0.3213567
+2024-04-19 13:38:37,272 - INFO - 	speed: 0.1731s/iter; left time: 5517081.1072s
+2024-04-19 13:38:47,533 - INFO - 	iters: 42700, epoch: 1 | loss: 0.3507113
+2024-04-19 13:38:47,533 - INFO - 	speed: 0.1026s/iter; left time: 3270907.1573s
+2024-04-19 13:38:57,797 - INFO - 	iters: 42800, epoch: 1 | loss: 0.3159188
+2024-04-19 13:38:57,797 - INFO - 	speed: 0.1026s/iter; left time: 3271680.9556s
+2024-04-19 13:39:08,068 - INFO - 	iters: 42900, epoch: 1 | loss: 0.3411459
+2024-04-19 13:39:08,068 - INFO - 	speed: 0.1027s/iter; left time: 3273835.4559s
+2024-04-19 13:39:18,329 - INFO - 	iters: 43000, epoch: 1 | loss: 0.3854721
+2024-04-19 13:39:18,329 - INFO - 	speed: 0.1026s/iter; left time: 3270719.0602s
+2024-04-19 13:39:28,622 - INFO - 	iters: 43100, epoch: 1 | loss: 0.3658890
+2024-04-19 13:39:28,623 - INFO - 	speed: 0.1029s/iter; left time: 3280947.8383s
+2024-04-19 13:39:38,895 - INFO - 	iters: 43200, epoch: 1 | loss: 0.4060954
+2024-04-19 13:39:38,896 - INFO - 	speed: 0.1027s/iter; left time: 3274569.6946s
+2024-04-19 13:39:49,147 - INFO - 	iters: 43300, epoch: 1 | loss: 0.3200893
+2024-04-19 13:39:49,148 - INFO - 	speed: 0.1025s/iter; left time: 3267729.6132s
+2024-04-19 13:39:59,425 - INFO - 	iters: 43400, epoch: 1 | loss: 0.2771753
+2024-04-19 13:39:59,425 - INFO - 	speed: 0.1028s/iter; left time: 3275888.4161s
+2024-04-19 13:40:09,697 - INFO - 	iters: 43500, epoch: 1 | loss: 0.3091388
+2024-04-19 13:40:09,697 - INFO - 	speed: 0.1027s/iter; left time: 3274213.1597s
+2024-04-19 13:40:19,961 - INFO - 	iters: 43600, epoch: 1 | loss: 0.2707522
+2024-04-19 13:40:19,961 - INFO - 	speed: 0.1026s/iter; left time: 3271570.6497s
+2024-04-19 13:40:37,247 - INFO - 	iters: 43700, epoch: 1 | loss: 0.4228133
+2024-04-19 13:40:37,247 - INFO - 	speed: 0.1729s/iter; left time: 5509887.1189s
+2024-04-19 13:40:47,502 - INFO - 	iters: 43800, epoch: 1 | loss: 0.4487855
+2024-04-19 13:40:47,502 - INFO - 	speed: 0.1025s/iter; left time: 3268683.2297s
+2024-04-19 13:40:57,779 - INFO - 	iters: 43900, epoch: 1 | loss: 0.3034648
+2024-04-19 13:40:57,779 - INFO - 	speed: 0.1028s/iter; left time: 3275582.7525s
+2024-04-19 13:41:08,072 - INFO - 	iters: 44000, epoch: 1 | loss: 0.2713912
+2024-04-19 13:41:08,072 - INFO - 	speed: 0.1029s/iter; left time: 3280834.7576s
+2024-04-19 13:41:18,321 - INFO - 	iters: 44100, epoch: 1 | loss: 0.3028157
+2024-04-19 13:41:18,321 - INFO - 	speed: 0.1025s/iter; left time: 3266657.7803s
+2024-04-19 13:41:28,606 - INFO - 	iters: 44200, epoch: 1 | loss: 0.3888394
+2024-04-19 13:41:28,606 - INFO - 	speed: 0.1029s/iter; left time: 3278318.3916s
+2024-04-19 13:41:38,884 - INFO - 	iters: 44300, epoch: 1 | loss: 0.2821597
+2024-04-19 13:41:38,885 - INFO - 	speed: 0.1028s/iter; left time: 3276114.1038s
+2024-04-19 13:42:57,197 - INFO - 	iters: 44400, epoch: 1 | loss: 0.3106761
+2024-04-19 13:42:57,197 - INFO - 	speed: 0.7831s/iter; left time: 24961165.3926s
+2024-04-19 13:43:07,477 - INFO - 	iters: 44500, epoch: 1 | loss: 0.3527078
+2024-04-19 13:43:07,477 - INFO - 	speed: 0.1028s/iter; left time: 3276617.0616s
+2024-04-19 13:43:17,759 - INFO - 	iters: 44600, epoch: 1 | loss: 0.3076015
+2024-04-19 13:43:17,759 - INFO - 	speed: 0.1028s/iter; left time: 3277146.7849s
+2024-04-19 13:43:28,036 - INFO - 	iters: 44700, epoch: 1 | loss: 0.2763288
+2024-04-19 13:43:28,036 - INFO - 	speed: 0.1028s/iter; left time: 3275678.8180s
+2024-04-19 13:43:38,321 - INFO - 	iters: 44800, epoch: 1 | loss: 0.2743476
+2024-04-19 13:43:38,321 - INFO - 	speed: 0.1028s/iter; left time: 3278005.6022s
+2024-04-19 13:43:48,560 - INFO - 	iters: 44900, epoch: 1 | loss: 0.3032100
+2024-04-19 13:43:48,560 - INFO - 	speed: 0.1024s/iter; left time: 3263506.5556s
+2024-04-19 13:43:58,834 - INFO - 	iters: 45000, epoch: 1 | loss: 0.3136829
+2024-04-19 13:43:58,834 - INFO - 	speed: 0.1027s/iter; left time: 3274553.2512s
+2024-04-19 13:44:09,102 - INFO - 	iters: 45100, epoch: 1 | loss: 0.3389589
+2024-04-19 13:44:09,102 - INFO - 	speed: 0.1027s/iter; left time: 3272961.2926s
+2024-04-19 13:44:19,367 - INFO - 	iters: 45200, epoch: 1 | loss: 0.2928674
+2024-04-19 13:44:19,367 - INFO - 	speed: 0.1026s/iter; left time: 3271586.6787s
+2024-04-19 13:44:29,641 - INFO - 	iters: 45300, epoch: 1 | loss: 0.2890675
+2024-04-19 13:44:29,641 - INFO - 	speed: 0.1027s/iter; left time: 3274561.6414s
+2024-04-19 13:44:39,919 - INFO - 	iters: 45400, epoch: 1 | loss: 0.3325660
+2024-04-19 13:44:39,920 - INFO - 	speed: 0.1028s/iter; left time: 3276102.1094s
+2024-04-19 13:44:57,202 - INFO - 	iters: 45500, epoch: 1 | loss: 0.4069929
+2024-04-19 13:44:57,203 - INFO - 	speed: 0.1728s/iter; left time: 5508496.5992s
+2024-04-19 13:45:07,477 - INFO - 	iters: 45600, epoch: 1 | loss: 0.2926010
+2024-04-19 13:45:07,477 - INFO - 	speed: 0.1027s/iter; left time: 3274835.3127s
+2024-04-19 13:45:17,755 - INFO - 	iters: 45700, epoch: 1 | loss: 0.3253958
+2024-04-19 13:45:17,756 - INFO - 	speed: 0.1028s/iter; left time: 3275939.6588s
+2024-04-19 13:45:28,014 - INFO - 	iters: 45800, epoch: 1 | loss: 0.3239358
+2024-04-19 13:45:28,015 - INFO - 	speed: 0.1026s/iter; left time: 3269742.1451s
+2024-04-19 13:45:38,294 - INFO - 	iters: 45900, epoch: 1 | loss: 0.3048577
+2024-04-19 13:45:38,294 - INFO - 	speed: 0.1028s/iter; left time: 3276401.5595s
+2024-04-19 13:45:48,540 - INFO - 	iters: 46000, epoch: 1 | loss: 0.3442245
+2024-04-19 13:45:48,541 - INFO - 	speed: 0.1025s/iter; left time: 3265626.6427s
+2024-04-19 13:45:58,813 - INFO - 	iters: 46100, epoch: 1 | loss: 0.3159305
+2024-04-19 13:45:58,813 - INFO - 	speed: 0.1027s/iter; left time: 3273990.2337s
+2024-04-19 13:46:09,085 - INFO - 	iters: 46200, epoch: 1 | loss: 0.3209093
+2024-04-19 13:46:09,086 - INFO - 	speed: 0.1027s/iter; left time: 3274103.3672s
+2024-04-19 13:46:19,332 - INFO - 	iters: 46300, epoch: 1 | loss: 0.3288063
+2024-04-19 13:46:19,333 - INFO - 	speed: 0.1025s/iter; left time: 3265847.1988s
+2024-04-19 13:46:29,623 - INFO - 	iters: 46400, epoch: 1 | loss: 0.3778950
+2024-04-19 13:46:29,624 - INFO - 	speed: 0.1029s/iter; left time: 3279973.5865s
+2024-04-19 13:46:39,905 - INFO - 	iters: 46500, epoch: 1 | loss: 0.4950001
+2024-04-19 13:46:39,905 - INFO - 	speed: 0.1028s/iter; left time: 3276777.4961s
+2024-04-19 13:47:59,196 - INFO - 	iters: 46600, epoch: 1 | loss: 0.2854485
+2024-04-19 13:47:59,196 - INFO - 	speed: 0.7929s/iter; left time: 25271308.2261s
+2024-04-19 13:48:09,478 - INFO - 	iters: 46700, epoch: 1 | loss: 0.4397005
+2024-04-19 13:48:09,478 - INFO - 	speed: 0.1028s/iter; left time: 3277032.0848s
+2024-04-19 13:48:19,746 - INFO - 	iters: 46800, epoch: 1 | loss: 0.2824546
+2024-04-19 13:48:19,746 - INFO - 	speed: 0.1027s/iter; left time: 3272496.6806s
+2024-04-19 13:48:30,004 - INFO - 	iters: 46900, epoch: 1 | loss: 0.3336108
+2024-04-19 13:48:30,005 - INFO - 	speed: 0.1026s/iter; left time: 3269495.0285s
+2024-04-19 13:48:47,281 - INFO - 	iters: 47000, epoch: 1 | loss: 0.3253070
+2024-04-19 13:48:47,281 - INFO - 	speed: 0.1728s/iter; left time: 5506273.8566s
+2024-04-19 13:48:57,555 - INFO - 	iters: 47100, epoch: 1 | loss: 0.3876179
+2024-04-19 13:48:57,555 - INFO - 	speed: 0.1027s/iter; left time: 3274355.5126s
+2024-04-19 13:49:07,817 - INFO - 	iters: 47200, epoch: 1 | loss: 0.2831669
+2024-04-19 13:49:07,817 - INFO - 	speed: 0.1026s/iter; left time: 3270533.9896s
+2024-04-19 13:49:18,102 - INFO - 	iters: 47300, epoch: 1 | loss: 0.3029097
+2024-04-19 13:49:18,102 - INFO - 	speed: 0.1029s/iter; left time: 3278009.8832s
+2024-04-19 13:49:28,378 - INFO - 	iters: 47400, epoch: 1 | loss: 0.3459464
+2024-04-19 13:49:28,378 - INFO - 	speed: 0.1028s/iter; left time: 3275042.9102s
+2024-04-19 13:49:38,637 - INFO - 	iters: 47500, epoch: 1 | loss: 0.3062348
+2024-04-19 13:49:38,638 - INFO - 	speed: 0.1026s/iter; left time: 3269641.9826s
+2024-04-19 13:49:48,917 - INFO - 	iters: 47600, epoch: 1 | loss: 0.3157768
+2024-04-19 13:49:48,917 - INFO - 	speed: 0.1028s/iter; left time: 3276183.7955s
+2024-04-19 13:49:59,186 - INFO - 	iters: 47700, epoch: 1 | loss: 0.3282154
+2024-04-19 13:49:59,186 - INFO - 	speed: 0.1027s/iter; left time: 3272704.8677s
+2024-04-19 13:50:09,462 - INFO - 	iters: 47800, epoch: 1 | loss: 0.2799244
+2024-04-19 13:50:09,462 - INFO - 	speed: 0.1028s/iter; left time: 3274980.2264s
+2024-04-19 13:50:19,714 - INFO - 	iters: 47900, epoch: 1 | loss: 0.3036546
+2024-04-19 13:50:19,714 - INFO - 	speed: 0.1025s/iter; left time: 3267233.4904s
+2024-04-19 13:50:29,986 - INFO - 	iters: 48000, epoch: 1 | loss: 0.3318042
+2024-04-19 13:50:29,987 - INFO - 	speed: 0.1027s/iter; left time: 3273901.5907s
+2024-04-19 13:50:47,279 - INFO - 	iters: 48100, epoch: 1 | loss: 0.3026283
+2024-04-19 13:50:47,279 - INFO - 	speed: 0.1729s/iter; left time: 5511171.3384s
+2024-04-19 13:50:57,540 - INFO - 	iters: 48200, epoch: 1 | loss: 0.4658958
+2024-04-19 13:50:57,540 - INFO - 	speed: 0.1026s/iter; left time: 3270198.4807s
+2024-04-19 13:51:07,788 - INFO - 	iters: 48300, epoch: 1 | loss: 0.3392361
+2024-04-19 13:51:07,788 - INFO - 	speed: 0.1025s/iter; left time: 3266018.2307s
+2024-04-19 13:51:18,066 - INFO - 	iters: 48400, epoch: 1 | loss: 0.3678273
+2024-04-19 13:51:18,066 - INFO - 	speed: 0.1028s/iter; left time: 3275473.6305s
+2024-04-19 13:51:28,307 - INFO - 	iters: 48500, epoch: 1 | loss: 0.3930053
+2024-04-19 13:51:28,307 - INFO - 	speed: 0.1024s/iter; left time: 3263773.3999s
+2024-04-19 13:51:38,576 - INFO - 	iters: 48600, epoch: 1 | loss: 0.3087243
+2024-04-19 13:51:38,576 - INFO - 	speed: 0.1027s/iter; left time: 3272558.0450s
+2024-04-19 13:52:57,906 - INFO - 	iters: 48700, epoch: 1 | loss: 0.3602669
+2024-04-19 13:52:57,906 - INFO - 	speed: 0.7933s/iter; left time: 25282052.3241s
+2024-04-19 13:53:08,151 - INFO - 	iters: 48800, epoch: 1 | loss: 0.3861362
+2024-04-19 13:53:08,152 - INFO - 	speed: 0.1025s/iter; left time: 3265243.7127s
+2024-04-19 13:53:18,397 - INFO - 	iters: 48900, epoch: 1 | loss: 0.3730720
+2024-04-19 13:53:18,398 - INFO - 	speed: 0.1025s/iter; left time: 3265291.8214s
+2024-04-19 13:53:28,680 - INFO - 	iters: 49000, epoch: 1 | loss: 0.3247467
+2024-04-19 13:53:28,680 - INFO - 	speed: 0.1028s/iter; left time: 3276910.8633s
+2024-04-19 13:53:38,938 - INFO - 	iters: 49100, epoch: 1 | loss: 0.3385479
+2024-04-19 13:53:38,938 - INFO - 	speed: 0.1026s/iter; left time: 3269076.7290s
+2024-04-19 13:53:49,229 - INFO - 	iters: 49200, epoch: 1 | loss: 0.2987829
+2024-04-19 13:53:49,229 - INFO - 	speed: 0.1029s/iter; left time: 3279764.3793s
+2024-04-19 13:53:59,483 - INFO - 	iters: 49300, epoch: 1 | loss: 0.3718839
+2024-04-19 13:53:59,484 - INFO - 	speed: 0.1025s/iter; left time: 3267868.6244s
+2024-04-19 13:54:09,745 - INFO - 	iters: 49400, epoch: 1 | loss: 0.2555878
+2024-04-19 13:54:09,745 - INFO - 	speed: 0.1026s/iter; left time: 3270130.4344s
+2024-04-19 13:54:27,036 - INFO - 	iters: 49500, epoch: 1 | loss: 0.3875767
+2024-04-19 13:54:27,036 - INFO - 	speed: 0.1729s/iter; left time: 5510398.9712s
+2024-04-19 13:54:37,299 - INFO - 	iters: 49600, epoch: 1 | loss: 0.3603277
+2024-04-19 13:54:37,299 - INFO - 	speed: 0.1026s/iter; left time: 3270757.9510s
+2024-04-19 13:54:47,570 - INFO - 	iters: 49700, epoch: 1 | loss: 0.3639558
+2024-04-19 13:54:47,570 - INFO - 	speed: 0.1027s/iter; left time: 3273182.7085s
+2024-04-19 13:54:57,847 - INFO - 	iters: 49800, epoch: 1 | loss: 0.3187222
+2024-04-19 13:54:57,847 - INFO - 	speed: 0.1028s/iter; left time: 3274994.5185s
+2024-04-19 13:55:08,093 - INFO - 	iters: 49900, epoch: 1 | loss: 0.3037522
+2024-04-19 13:55:08,093 - INFO - 	speed: 0.1025s/iter; left time: 3265280.7665s
+2024-04-19 13:55:18,357 - INFO - 	iters: 50000, epoch: 1 | loss: 0.3563585
+2024-04-19 13:55:18,358 - INFO - 	speed: 0.1026s/iter; left time: 3271076.5860s
+2024-04-19 13:55:28,643 - INFO - 	iters: 50100, epoch: 1 | loss: 0.3916349
+2024-04-19 13:55:28,643 - INFO - 	speed: 0.1028s/iter; left time: 3277632.2397s
+2024-04-19 13:55:38,890 - INFO - 	iters: 50200, epoch: 1 | loss: 0.3234729
+2024-04-19 13:55:38,891 - INFO - 	speed: 0.1025s/iter; left time: 3265736.5230s
+2024-04-19 13:55:49,155 - INFO - 	iters: 50300, epoch: 1 | loss: 0.2683079
+2024-04-19 13:55:49,155 - INFO - 	speed: 0.1026s/iter; left time: 3271067.0669s
+2024-04-19 13:55:59,420 - INFO - 	iters: 50400, epoch: 1 | loss: 0.3385421
+2024-04-19 13:55:59,420 - INFO - 	speed: 0.1027s/iter; left time: 3271266.2759s
+2024-04-19 13:56:09,679 - INFO - 	iters: 50500, epoch: 1 | loss: 0.3798362
+2024-04-19 13:56:09,679 - INFO - 	speed: 0.1026s/iter; left time: 3269166.3735s
+2024-04-19 13:56:19,965 - INFO - 	iters: 50600, epoch: 1 | loss: 0.3619022
+2024-04-19 13:56:19,965 - INFO - 	speed: 0.1029s/iter; left time: 3277933.5819s
+2024-04-19 13:56:37,240 - INFO - 	iters: 50700, epoch: 1 | loss: 0.2478538
+2024-04-19 13:56:37,240 - INFO - 	speed: 0.1727s/iter; left time: 5505062.8100s
+2024-04-19 13:57:49,510 - INFO - 	iters: 50800, epoch: 1 | loss: 0.3850563
+2024-04-19 13:57:49,510 - INFO - 	speed: 0.7227s/iter; left time: 23030645.3068s
+2024-04-19 13:57:59,793 - INFO - 	iters: 50900, epoch: 1 | loss: 0.4327618
+2024-04-19 13:57:59,793 - INFO - 	speed: 0.1028s/iter; left time: 3276698.0993s
+2024-04-19 13:58:17,071 - INFO - 	iters: 51000, epoch: 1 | loss: 0.3286003
+2024-04-19 13:58:17,072 - INFO - 	speed: 0.1728s/iter; left time: 5506296.3699s
+2024-04-19 13:58:27,334 - INFO - 	iters: 51100, epoch: 1 | loss: 0.3431453
+2024-04-19 13:58:27,334 - INFO - 	speed: 0.1026s/iter; left time: 3270233.3099s
+2024-04-19 13:58:37,605 - INFO - 	iters: 51200, epoch: 1 | loss: 0.3477232
+2024-04-19 13:58:37,605 - INFO - 	speed: 0.1027s/iter; left time: 3273111.5357s
+2024-04-19 13:58:47,868 - INFO - 	iters: 51300, epoch: 1 | loss: 0.2729245
+2024-04-19 13:58:47,868 - INFO - 	speed: 0.1026s/iter; left time: 3270458.3421s
+2024-04-19 13:58:58,112 - INFO - 	iters: 51400, epoch: 1 | loss: 0.3760441
+2024-04-19 13:58:58,112 - INFO - 	speed: 0.1024s/iter; left time: 3264507.7905s
+2024-04-19 13:59:08,388 - INFO - 	iters: 51500, epoch: 1 | loss: 0.2906294
+2024-04-19 13:59:08,388 - INFO - 	speed: 0.1028s/iter; left time: 3274519.1024s
+2024-04-19 13:59:18,645 - INFO - 	iters: 51600, epoch: 1 | loss: 0.3332632
+2024-04-19 13:59:18,645 - INFO - 	speed: 0.1026s/iter; left time: 3268547.7579s
+2024-04-19 13:59:28,887 - INFO - 	iters: 51700, epoch: 1 | loss: 0.3824391
+2024-04-19 13:59:28,887 - INFO - 	speed: 0.1024s/iter; left time: 3263806.1927s
+2024-04-19 13:59:39,163 - INFO - 	iters: 51800, epoch: 1 | loss: 0.4717349
+2024-04-19 13:59:39,164 - INFO - 	speed: 0.1028s/iter; left time: 3274628.2981s
+2024-04-19 13:59:49,413 - INFO - 	iters: 51900, epoch: 1 | loss: 0.3773085
+2024-04-19 13:59:49,413 - INFO - 	speed: 0.1025s/iter; left time: 3266056.6067s
+2024-04-19 13:59:59,677 - INFO - 	iters: 52000, epoch: 1 | loss: 0.2786916
+2024-04-19 13:59:59,677 - INFO - 	speed: 0.1026s/iter; left time: 3270652.4143s
+2024-04-19 14:00:09,936 - INFO - 	iters: 52100, epoch: 1 | loss: 0.3423935
+2024-04-19 14:00:09,936 - INFO - 	speed: 0.1026s/iter; left time: 3269330.6753s
+2024-04-19 14:00:27,208 - INFO - 	iters: 52200, epoch: 1 | loss: 0.3466051
+2024-04-19 14:00:27,208 - INFO - 	speed: 0.1727s/iter; left time: 5503907.9483s
+2024-04-19 14:00:37,463 - INFO - 	iters: 52300, epoch: 1 | loss: 0.3129371
+2024-04-19 14:00:37,463 - INFO - 	speed: 0.1025s/iter; left time: 3267790.5196s
+2024-04-19 14:00:47,722 - INFO - 	iters: 52400, epoch: 1 | loss: 0.2936236
+2024-04-19 14:00:47,722 - INFO - 	speed: 0.1026s/iter; left time: 3269115.0518s
+2024-04-19 14:00:57,973 - INFO - 	iters: 52500, epoch: 1 | loss: 0.5698048
+2024-04-19 14:00:57,973 - INFO - 	speed: 0.1025s/iter; left time: 3266311.3899s
+2024-04-19 14:01:08,259 - INFO - 	iters: 52600, epoch: 1 | loss: 0.3024566
+2024-04-19 14:01:08,259 - INFO - 	speed: 0.1029s/iter; left time: 3277654.4695s
+2024-04-19 14:01:37,236 - INFO - 	iters: 52700, epoch: 1 | loss: 0.3590964
+2024-04-19 14:01:37,237 - INFO - 	speed: 0.2898s/iter; left time: 9233904.0205s
+2024-04-19 14:02:49,505 - INFO - 	iters: 52800, epoch: 1 | loss: 0.3916847
+2024-04-19 14:02:49,506 - INFO - 	speed: 0.7227s/iter; left time: 23028832.8004s
+2024-04-19 14:02:59,775 - INFO - 	iters: 52900, epoch: 1 | loss: 0.3325911
+2024-04-19 14:02:59,775 - INFO - 	speed: 0.1027s/iter; left time: 3272318.6593s
+2024-04-19 14:03:17,066 - INFO - 	iters: 53000, epoch: 1 | loss: 0.3491356
+2024-04-19 14:03:17,067 - INFO - 	speed: 0.1729s/iter; left time: 5510010.2340s
+2024-04-19 14:03:27,338 - INFO - 	iters: 53100, epoch: 1 | loss: 0.3578475
+2024-04-19 14:03:27,338 - INFO - 	speed: 0.1027s/iter; left time: 3272863.6588s
+2024-04-19 14:03:37,612 - INFO - 	iters: 53200, epoch: 1 | loss: 0.3124567
+2024-04-19 14:03:37,612 - INFO - 	speed: 0.1027s/iter; left time: 3273784.2738s
+2024-04-19 14:03:47,876 - INFO - 	iters: 53300, epoch: 1 | loss: 0.3210949
+2024-04-19 14:03:47,876 - INFO - 	speed: 0.1026s/iter; left time: 3270735.7339s
+2024-04-19 14:03:58,156 - INFO - 	iters: 53400, epoch: 1 | loss: 0.3623669
+2024-04-19 14:03:58,156 - INFO - 	speed: 0.1028s/iter; left time: 3275610.9755s
+2024-04-19 14:04:08,425 - INFO - 	iters: 53500, epoch: 1 | loss: 0.4135680
+2024-04-19 14:04:08,425 - INFO - 	speed: 0.1027s/iter; left time: 3272080.0307s
+2024-04-19 14:04:18,620 - INFO - 	iters: 53600, epoch: 1 | loss: 0.3847651
+2024-04-19 14:04:18,621 - INFO - 	speed: 0.1020s/iter; left time: 3248823.4323s
+2024-04-19 14:04:28,919 - INFO - 	iters: 53700, epoch: 1 | loss: 0.2793394
+2024-04-19 14:04:28,919 - INFO - 	speed: 0.1030s/iter; left time: 3281563.5277s
+2024-04-19 14:04:39,193 - INFO - 	iters: 53800, epoch: 1 | loss: 0.4113087
+2024-04-19 14:04:39,193 - INFO - 	speed: 0.1027s/iter; left time: 3273650.7620s
+2024-04-19 14:04:49,407 - INFO - 	iters: 53900, epoch: 1 | loss: 0.3133849
+2024-04-19 14:04:49,408 - INFO - 	speed: 0.1021s/iter; left time: 3254833.4047s
+2024-04-19 14:04:59,697 - INFO - 	iters: 54000, epoch: 1 | loss: 0.5130336
+2024-04-19 14:04:59,697 - INFO - 	speed: 0.1029s/iter; left time: 3278606.5650s
+2024-04-19 14:05:09,978 - INFO - 	iters: 54100, epoch: 1 | loss: 0.3541399
+2024-04-19 14:05:09,978 - INFO - 	speed: 0.1028s/iter; left time: 3276006.9164s
+2024-04-19 14:05:27,276 - INFO - 	iters: 54200, epoch: 1 | loss: 0.4281059
+2024-04-19 14:05:27,277 - INFO - 	speed: 0.1730s/iter; left time: 5511879.5942s
+2024-04-19 14:05:37,538 - INFO - 	iters: 54300, epoch: 1 | loss: 0.3234091
+2024-04-19 14:05:37,539 - INFO - 	speed: 0.1026s/iter; left time: 3269843.9952s
+2024-04-19 14:05:47,800 - INFO - 	iters: 54400, epoch: 1 | loss: 0.3626541
+2024-04-19 14:05:47,801 - INFO - 	speed: 0.1026s/iter; left time: 3269877.1118s
+2024-04-19 14:05:58,019 - INFO - 	iters: 54500, epoch: 1 | loss: 0.5372913
+2024-04-19 14:05:58,019 - INFO - 	speed: 0.1022s/iter; left time: 3256052.6498s
+2024-04-19 14:06:08,289 - INFO - 	iters: 54600, epoch: 1 | loss: 0.2949214
+2024-04-19 14:06:08,290 - INFO - 	speed: 0.1027s/iter; left time: 3272413.3158s
+2024-04-19 14:06:18,559 - INFO - 	iters: 54700, epoch: 1 | loss: 0.2913979
+2024-04-19 14:06:18,559 - INFO - 	speed: 0.1027s/iter; left time: 3272300.5642s
+2024-04-19 14:06:28,853 - INFO - 	iters: 54800, epoch: 1 | loss: 0.3330898
+2024-04-19 14:06:28,854 - INFO - 	speed: 0.1029s/iter; left time: 3280070.2807s
+2024-04-19 14:06:39,116 - INFO - 	iters: 54900, epoch: 1 | loss: 0.3200768
+2024-04-19 14:06:39,116 - INFO - 	speed: 0.1026s/iter; left time: 3269880.8024s
+2024-04-19 14:07:57,421 - INFO - 	iters: 55000, epoch: 1 | loss: 0.2927376
+2024-04-19 14:07:57,421 - INFO - 	speed: 0.7831s/iter; left time: 24950532.7418s
+2024-04-19 14:08:07,715 - INFO - 	iters: 55100, epoch: 1 | loss: 0.2835053
+2024-04-19 14:08:07,715 - INFO - 	speed: 0.1029s/iter; left time: 3280001.5664s
+2024-04-19 14:08:17,975 - INFO - 	iters: 55200, epoch: 1 | loss: 0.3713335
+2024-04-19 14:08:17,975 - INFO - 	speed: 0.1026s/iter; left time: 3269042.3313s
+2024-04-19 14:08:28,252 - INFO - 	iters: 55300, epoch: 1 | loss: 0.4564929
+2024-04-19 14:08:28,253 - INFO - 	speed: 0.1028s/iter; left time: 3274694.5055s
+2024-04-19 14:08:38,532 - INFO - 	iters: 55400, epoch: 1 | loss: 0.3119981
+2024-04-19 14:08:38,532 - INFO - 	speed: 0.1028s/iter; left time: 3275214.9324s
+2024-04-19 14:08:48,782 - INFO - 	iters: 55500, epoch: 1 | loss: 0.3827667
+2024-04-19 14:08:48,782 - INFO - 	speed: 0.1025s/iter; left time: 3265968.2543s
+2024-04-19 14:08:59,068 - INFO - 	iters: 55600, epoch: 1 | loss: 0.3445505
+2024-04-19 14:08:59,069 - INFO - 	speed: 0.1029s/iter; left time: 3277602.0519s
+2024-04-19 14:09:09,329 - INFO - 	iters: 55700, epoch: 1 | loss: 0.4917386
+2024-04-19 14:09:09,329 - INFO - 	speed: 0.1026s/iter; left time: 3269161.7287s
+2024-04-19 14:09:19,584 - INFO - 	iters: 55800, epoch: 1 | loss: 0.2474706
+2024-04-19 14:09:19,584 - INFO - 	speed: 0.1025s/iter; left time: 3267469.3560s
+2024-04-19 14:09:29,883 - INFO - 	iters: 55900, epoch: 1 | loss: 0.3334796
+2024-04-19 14:09:29,883 - INFO - 	speed: 0.1030s/iter; left time: 3281433.7411s
+2024-04-19 14:09:47,177 - INFO - 	iters: 56000, epoch: 1 | loss: 0.3038881
+2024-04-19 14:09:47,177 - INFO - 	speed: 0.1729s/iter; left time: 5510354.2245s
+2024-04-19 14:09:57,442 - INFO - 	iters: 56100, epoch: 1 | loss: 0.2949741
+2024-04-19 14:09:57,442 - INFO - 	speed: 0.1026s/iter; left time: 3270435.1891s
+2024-04-19 14:10:07,710 - INFO - 	iters: 56200, epoch: 1 | loss: 0.3733045
+2024-04-19 14:10:07,710 - INFO - 	speed: 0.1027s/iter; left time: 3271716.1767s
+2024-04-19 14:10:17,970 - INFO - 	iters: 56300, epoch: 1 | loss: 0.2747493
+2024-04-19 14:10:17,970 - INFO - 	speed: 0.1026s/iter; left time: 3268906.3815s
+2024-04-19 14:10:28,238 - INFO - 	iters: 56400, epoch: 1 | loss: 0.3455394
+2024-04-19 14:10:28,238 - INFO - 	speed: 0.1027s/iter; left time: 3271688.0434s
+2024-04-19 14:10:38,524 - INFO - 	iters: 56500, epoch: 1 | loss: 0.2886249
+2024-04-19 14:10:38,524 - INFO - 	speed: 0.1029s/iter; left time: 3277126.6882s
+2024-04-19 14:10:48,786 - INFO - 	iters: 56600, epoch: 1 | loss: 0.3610390
+2024-04-19 14:10:48,786 - INFO - 	speed: 0.1026s/iter; left time: 3269770.3824s
+2024-04-19 14:10:59,065 - INFO - 	iters: 56700, epoch: 1 | loss: 0.3012090
+2024-04-19 14:10:59,065 - INFO - 	speed: 0.1028s/iter; left time: 3274933.5543s
+2024-04-19 14:11:09,321 - INFO - 	iters: 56800, epoch: 1 | loss: 0.3591008
+2024-04-19 14:11:09,322 - INFO - 	speed: 0.1026s/iter; left time: 3267825.7021s
+2024-04-19 14:11:19,584 - INFO - 	iters: 56900, epoch: 1 | loss: 0.3180427
+2024-04-19 14:11:19,585 - INFO - 	speed: 0.1026s/iter; left time: 3269891.5976s
+2024-04-19 14:11:29,880 - INFO - 	iters: 57000, epoch: 1 | loss: 0.3155156
+2024-04-19 14:11:29,881 - INFO - 	speed: 0.1030s/iter; left time: 3280424.9263s
+2024-04-19 14:11:47,141 - INFO - 	iters: 57100, epoch: 1 | loss: 0.5185752
+2024-04-19 14:11:47,141 - INFO - 	speed: 0.1726s/iter; left time: 5499357.1413s
+2024-04-19 14:12:59,423 - INFO - 	iters: 57200, epoch: 1 | loss: 0.2946799
+2024-04-19 14:12:59,423 - INFO - 	speed: 0.7228s/iter; left time: 23029658.0101s
+2024-04-19 14:13:09,712 - INFO - 	iters: 57300, epoch: 1 | loss: 0.2966058
+2024-04-19 14:13:09,712 - INFO - 	speed: 0.1029s/iter; left time: 3278132.0327s
+2024-04-19 14:13:19,975 - INFO - 	iters: 57400, epoch: 1 | loss: 0.2934533
+2024-04-19 14:13:19,975 - INFO - 	speed: 0.1026s/iter; left time: 3269980.3572s
+2024-04-19 14:13:37,263 - INFO - 	iters: 57500, epoch: 1 | loss: 0.3100327
+2024-04-19 14:13:37,263 - INFO - 	speed: 0.1729s/iter; left time: 5508071.5662s
+2024-04-19 14:13:47,540 - INFO - 	iters: 57600, epoch: 1 | loss: 0.2840801
+2024-04-19 14:13:47,540 - INFO - 	speed: 0.1028s/iter; left time: 3274215.4268s
+2024-04-19 14:13:57,777 - INFO - 	iters: 57700, epoch: 1 | loss: 0.3146055
+2024-04-19 14:13:57,777 - INFO - 	speed: 0.1024s/iter; left time: 3261646.3835s
+2024-04-19 14:14:08,045 - INFO - 	iters: 57800, epoch: 1 | loss: 0.2800947
+2024-04-19 14:14:08,045 - INFO - 	speed: 0.1027s/iter; left time: 3271220.8438s
+2024-04-19 14:14:18,332 - INFO - 	iters: 57900, epoch: 1 | loss: 0.3184696
+2024-04-19 14:14:18,332 - INFO - 	speed: 0.1029s/iter; left time: 3277472.2594s
+2024-04-19 14:14:28,602 - INFO - 	iters: 58000, epoch: 1 | loss: 0.2991137
+2024-04-19 14:14:28,602 - INFO - 	speed: 0.1027s/iter; left time: 3272052.5875s
+2024-04-19 14:14:38,863 - INFO - 	iters: 58100, epoch: 1 | loss: 0.3062184
+2024-04-19 14:14:38,863 - INFO - 	speed: 0.1026s/iter; left time: 3269125.2862s
+2024-04-19 14:14:49,136 - INFO - 	iters: 58200, epoch: 1 | loss: 0.3115349
+2024-04-19 14:14:49,136 - INFO - 	speed: 0.1027s/iter; left time: 3273109.4663s
+2024-04-19 14:14:59,380 - INFO - 	iters: 58300, epoch: 1 | loss: 0.3976240
+2024-04-19 14:14:59,381 - INFO - 	speed: 0.1024s/iter; left time: 3263803.2935s
+2024-04-19 14:15:09,664 - INFO - 	iters: 58400, epoch: 1 | loss: 0.5679598
+2024-04-19 14:15:09,665 - INFO - 	speed: 0.1028s/iter; left time: 3276393.2418s
+2024-04-19 14:15:19,937 - INFO - 	iters: 58500, epoch: 1 | loss: 0.4058993
+2024-04-19 14:15:19,937 - INFO - 	speed: 0.1027s/iter; left time: 3272643.5504s
+2024-04-19 14:15:37,229 - INFO - 	iters: 58600, epoch: 1 | loss: 0.4981361
+2024-04-19 14:15:37,229 - INFO - 	speed: 0.1729s/iter; left time: 5509147.1067s
+2024-04-19 14:15:47,500 - INFO - 	iters: 58700, epoch: 1 | loss: 0.4169316
+2024-04-19 14:15:47,500 - INFO - 	speed: 0.1027s/iter; left time: 3272440.1731s
+2024-04-19 14:15:57,759 - INFO - 	iters: 58800, epoch: 1 | loss: 0.3188681
+2024-04-19 14:15:57,759 - INFO - 	speed: 0.1026s/iter; left time: 3268332.6117s
+2024-04-19 14:16:08,026 - INFO - 	iters: 58900, epoch: 1 | loss: 0.2993631
+2024-04-19 14:16:08,026 - INFO - 	speed: 0.1027s/iter; left time: 3271032.0204s
+2024-04-19 14:16:18,322 - INFO - 	iters: 59000, epoch: 1 | loss: 0.3445739
+2024-04-19 14:16:18,322 - INFO - 	speed: 0.1030s/iter; left time: 3280165.4560s
+2024-04-19 14:16:28,578 - INFO - 	iters: 59100, epoch: 1 | loss: 0.4066839
+2024-04-19 14:16:28,579 - INFO - 	speed: 0.1026s/iter; left time: 3267601.1231s
+2024-04-19 14:16:38,822 - INFO - 	iters: 59200, epoch: 1 | loss: 0.3149216
+2024-04-19 14:16:38,822 - INFO - 	speed: 0.1024s/iter; left time: 3263421.8481s
+2024-04-19 14:17:58,110 - INFO - 	iters: 59300, epoch: 1 | loss: 0.2687264
+2024-04-19 14:17:58,110 - INFO - 	speed: 0.7929s/iter; left time: 25260331.3373s
+2024-04-19 14:18:08,374 - INFO - 	iters: 59400, epoch: 1 | loss: 0.3551540
+2024-04-19 14:18:08,374 - INFO - 	speed: 0.1026s/iter; left time: 3269979.8714s
+2024-04-19 14:18:18,636 - INFO - 	iters: 59500, epoch: 1 | loss: 0.3769407
+2024-04-19 14:18:18,636 - INFO - 	speed: 0.1026s/iter; left time: 3269249.5345s
+2024-04-19 14:18:28,923 - INFO - 	iters: 59600, epoch: 1 | loss: 0.4507003
+2024-04-19 14:18:28,923 - INFO - 	speed: 0.1029s/iter; left time: 3277263.2756s
+2024-04-19 14:18:39,177 - INFO - 	iters: 59700, epoch: 1 | loss: 0.2719786
+2024-04-19 14:18:39,177 - INFO - 	speed: 0.1025s/iter; left time: 3266744.5471s
+2024-04-19 14:18:49,452 - INFO - 	iters: 59800, epoch: 1 | loss: 0.3883767
+2024-04-19 14:18:49,452 - INFO - 	speed: 0.1027s/iter; left time: 3273357.6107s
+2024-04-19 14:18:59,733 - INFO - 	iters: 59900, epoch: 1 | loss: 0.3015461
+2024-04-19 14:18:59,733 - INFO - 	speed: 0.1028s/iter; left time: 3275329.8663s
+2024-04-19 14:19:10,005 - INFO - 	iters: 60000, epoch: 1 | loss: 0.3126548
+2024-04-19 14:19:10,006 - INFO - 	speed: 0.1027s/iter; left time: 3272725.5405s
+2024-04-19 14:19:27,278 - INFO - 	iters: 60100, epoch: 1 | loss: 0.3068678
+2024-04-19 14:19:27,278 - INFO - 	speed: 0.1727s/iter; left time: 5502664.7584s
+2024-04-19 14:19:37,565 - INFO - 	iters: 60200, epoch: 1 | loss: 0.3003175
+2024-04-19 14:19:37,565 - INFO - 	speed: 0.1029s/iter; left time: 3277069.3159s
+2024-04-19 14:19:47,819 - INFO - 	iters: 60300, epoch: 1 | loss: 0.3094690
+2024-04-19 14:19:47,819 - INFO - 	speed: 0.1025s/iter; left time: 3266691.6065s
+2024-04-19 14:19:58,097 - INFO - 	iters: 60400, epoch: 1 | loss: 0.4814794
+2024-04-19 14:19:58,097 - INFO - 	speed: 0.1028s/iter; left time: 3274470.3014s
+2024-04-19 14:20:08,390 - INFO - 	iters: 60500, epoch: 1 | loss: 0.3126225
+2024-04-19 14:20:08,390 - INFO - 	speed: 0.1029s/iter; left time: 3278964.5152s
+2024-04-19 14:20:18,634 - INFO - 	iters: 60600, epoch: 1 | loss: 0.3460189
+2024-04-19 14:20:18,634 - INFO - 	speed: 0.1024s/iter; left time: 3263555.0676s
+2024-04-19 14:20:28,939 - INFO - 	iters: 60700, epoch: 1 | loss: 0.2928980
+2024-04-19 14:20:28,939 - INFO - 	speed: 0.1030s/iter; left time: 3282755.6917s
+2024-04-19 14:20:39,191 - INFO - 	iters: 60800, epoch: 1 | loss: 0.2968949
+2024-04-19 14:20:39,192 - INFO - 	speed: 0.1025s/iter; left time: 3266232.6919s
+2024-04-19 14:20:49,474 - INFO - 	iters: 60900, epoch: 1 | loss: 0.3392591
+2024-04-19 14:20:49,474 - INFO - 	speed: 0.1028s/iter; left time: 3275701.4640s
+2024-04-19 14:20:59,744 - INFO - 	iters: 61000, epoch: 1 | loss: 0.3037848
+2024-04-19 14:20:59,744 - INFO - 	speed: 0.1027s/iter; left time: 3271723.2196s
+2024-04-19 14:21:17,032 - INFO - 	iters: 61100, epoch: 1 | loss: 0.3469767
+2024-04-19 14:21:17,032 - INFO - 	speed: 0.1729s/iter; left time: 5507574.0660s
+2024-04-19 14:21:27,315 - INFO - 	iters: 61200, epoch: 1 | loss: 0.3980966
+2024-04-19 14:21:27,315 - INFO - 	speed: 0.1028s/iter; left time: 3275810.2943s
+2024-04-19 14:21:37,583 - INFO - 	iters: 61300, epoch: 1 | loss: 0.3855403
+2024-04-19 14:21:37,584 - INFO - 	speed: 0.1027s/iter; left time: 3271112.7381s
+2024-04-19 14:22:48,882 - INFO - 	iters: 61400, epoch: 1 | loss: 0.4339638
+2024-04-19 14:22:48,883 - INFO - 	speed: 0.7130s/iter; left time: 22713558.0709s
+2024-04-19 14:22:59,163 - INFO - 	iters: 61500, epoch: 1 | loss: 0.3048851
+2024-04-19 14:22:59,163 - INFO - 	speed: 0.1028s/iter; left time: 3274937.9703s
+2024-04-19 14:23:09,432 - INFO - 	iters: 61600, epoch: 1 | loss: 0.2863036
+2024-04-19 14:23:09,432 - INFO - 	speed: 0.1027s/iter; left time: 3271355.2092s
+2024-04-19 14:23:19,712 - INFO - 	iters: 61700, epoch: 1 | loss: 0.3928518
+2024-04-19 14:23:19,712 - INFO - 	speed: 0.1028s/iter; left time: 3274909.8906s
+2024-04-19 14:23:29,982 - INFO - 	iters: 61800, epoch: 1 | loss: 0.2965782
+2024-04-19 14:23:29,982 - INFO - 	speed: 0.1027s/iter; left time: 3271465.9155s
+2024-04-19 14:23:47,276 - INFO - 	iters: 61900, epoch: 1 | loss: 0.3065484
+2024-04-19 14:23:47,276 - INFO - 	speed: 0.1729s/iter; left time: 5509415.9624s
+2024-04-19 14:23:57,533 - INFO - 	iters: 62000, epoch: 1 | loss: 0.3579466
+2024-04-19 14:23:57,533 - INFO - 	speed: 0.1026s/iter; left time: 3267336.9537s
+2024-04-19 14:24:07,806 - INFO - 	iters: 62100, epoch: 1 | loss: 0.3495241
+2024-04-19 14:24:07,806 - INFO - 	speed: 0.1027s/iter; left time: 3272685.4104s
+2024-04-19 14:24:18,071 - INFO - 	iters: 62200, epoch: 1 | loss: 0.3284603
+2024-04-19 14:24:18,071 - INFO - 	speed: 0.1026s/iter; left time: 3269843.9256s
+2024-04-19 14:24:28,359 - INFO - 	iters: 62300, epoch: 1 | loss: 0.2780229
+2024-04-19 14:24:28,359 - INFO - 	speed: 0.1029s/iter; left time: 3277261.1532s
+2024-04-19 14:24:38,640 - INFO - 	iters: 62400, epoch: 1 | loss: 0.3029121
+2024-04-19 14:24:38,640 - INFO - 	speed: 0.1028s/iter; left time: 3275039.8047s
+2024-04-19 14:24:48,883 - INFO - 	iters: 62500, epoch: 1 | loss: 0.2941500
+2024-04-19 14:24:48,883 - INFO - 	speed: 0.1024s/iter; left time: 3263062.2486s
+2024-04-19 14:24:59,178 - INFO - 	iters: 62600, epoch: 1 | loss: 0.4617083
+2024-04-19 14:24:59,178 - INFO - 	speed: 0.1030s/iter; left time: 3279634.9325s
+2024-04-19 14:25:09,449 - INFO - 	iters: 62700, epoch: 1 | loss: 0.4273752
+2024-04-19 14:25:09,449 - INFO - 	speed: 0.1027s/iter; left time: 3271696.0480s
+2024-04-19 14:25:19,714 - INFO - 	iters: 62800, epoch: 1 | loss: 0.2931817
+2024-04-19 14:25:19,714 - INFO - 	speed: 0.1027s/iter; left time: 3270038.4396s
+2024-04-19 14:25:29,995 - INFO - 	iters: 62900, epoch: 1 | loss: 0.3371391
+2024-04-19 14:25:29,995 - INFO - 	speed: 0.1028s/iter; left time: 3274862.1734s
+2024-04-19 14:25:47,283 - INFO - 	iters: 63000, epoch: 1 | loss: 0.4303460
+2024-04-19 14:25:47,283 - INFO - 	speed: 0.1729s/iter; left time: 5507223.2580s
+2024-04-19 14:25:57,557 - INFO - 	iters: 63100, epoch: 1 | loss: 0.3622340
+2024-04-19 14:25:57,557 - INFO - 	speed: 0.1027s/iter; left time: 3272705.1819s
+2024-04-19 14:26:07,857 - INFO - 	iters: 63200, epoch: 1 | loss: 0.2996351
+2024-04-19 14:26:07,857 - INFO - 	speed: 0.1030s/iter; left time: 3281125.0869s
+2024-04-19 14:26:18,119 - INFO - 	iters: 63300, epoch: 1 | loss: 0.3300547
+2024-04-19 14:26:18,119 - INFO - 	speed: 0.1026s/iter; left time: 3268760.9328s
+2024-04-19 14:26:28,398 - INFO - 	iters: 63400, epoch: 1 | loss: 0.3947011
+2024-04-19 14:26:28,398 - INFO - 	speed: 0.1028s/iter; left time: 3274402.4761s
+2024-04-19 14:26:38,680 - INFO - 	iters: 63500, epoch: 1 | loss: 0.2879321
+2024-04-19 14:26:38,680 - INFO - 	speed: 0.1028s/iter; left time: 3275338.0475s
+2024-04-19 14:27:49,977 - INFO - 	iters: 63600, epoch: 1 | loss: 0.3237030
+2024-04-19 14:27:49,978 - INFO - 	speed: 0.7130s/iter; left time: 22711488.0905s
+2024-04-19 14:28:07,277 - INFO - 	iters: 63700, epoch: 1 | loss: 0.2775083
+2024-04-19 14:28:07,277 - INFO - 	speed: 0.1730s/iter; left time: 5510568.9949s
+2024-04-19 14:28:17,524 - INFO - 	iters: 63800, epoch: 1 | loss: 0.2785919
+2024-04-19 14:28:17,524 - INFO - 	speed: 0.1025s/iter; left time: 3264057.0482s
+2024-04-19 14:28:27,781 - INFO - 	iters: 63900, epoch: 1 | loss: 0.3006930
+2024-04-19 14:28:27,781 - INFO - 	speed: 0.1026s/iter; left time: 3267445.4105s
+2024-04-19 14:28:38,071 - INFO - 	iters: 64000, epoch: 1 | loss: 0.3193630
+2024-04-19 14:28:38,071 - INFO - 	speed: 0.1029s/iter; left time: 3277618.2652s
+2024-04-19 14:28:48,338 - INFO - 	iters: 64100, epoch: 1 | loss: 0.3316740
+2024-04-19 14:28:48,338 - INFO - 	speed: 0.1027s/iter; left time: 3270531.0149s
+2024-04-19 14:28:58,597 - INFO - 	iters: 64200, epoch: 1 | loss: 0.4848520
+2024-04-19 14:28:58,597 - INFO - 	speed: 0.1026s/iter; left time: 3267771.6595s
+2024-04-19 14:29:08,880 - INFO - 	iters: 64300, epoch: 1 | loss: 0.2976981
+2024-04-19 14:29:08,880 - INFO - 	speed: 0.1028s/iter; left time: 3275464.0334s
+2024-04-19 14:29:19,145 - INFO - 	iters: 64400, epoch: 1 | loss: 0.3739002
+2024-04-19 14:29:19,146 - INFO - 	speed: 0.1027s/iter; left time: 3270057.0719s
+2024-04-19 14:29:29,431 - INFO - 	iters: 64500, epoch: 1 | loss: 0.3033027
+2024-04-19 14:29:29,431 - INFO - 	speed: 0.1029s/iter; left time: 3276409.1863s
+2024-04-19 14:29:39,706 - INFO - 	iters: 64600, epoch: 1 | loss: 0.2574974
+2024-04-19 14:29:39,706 - INFO - 	speed: 0.1027s/iter; left time: 3272855.5391s
+2024-04-19 14:29:49,981 - INFO - 	iters: 64700, epoch: 1 | loss: 0.2516037
+2024-04-19 14:29:49,981 - INFO - 	speed: 0.1027s/iter; left time: 3272915.8170s
+2024-04-19 14:30:07,280 - INFO - 	iters: 64800, epoch: 1 | loss: 0.3242236
+2024-04-19 14:30:07,280 - INFO - 	speed: 0.1730s/iter; left time: 5510243.0671s
+2024-04-19 14:30:17,562 - INFO - 	iters: 64900, epoch: 1 | loss: 0.4359311
+2024-04-19 14:30:17,563 - INFO - 	speed: 0.1028s/iter; left time: 3275322.0638s
+2024-04-19 14:30:27,828 - INFO - 	iters: 65000, epoch: 1 | loss: 0.2993582
+2024-04-19 14:30:27,828 - INFO - 	speed: 0.1027s/iter; left time: 3269970.1117s
+2024-04-19 14:30:38,094 - INFO - 	iters: 65100, epoch: 1 | loss: 0.4236122
+2024-04-19 14:30:38,094 - INFO - 	speed: 0.1027s/iter; left time: 3269803.4019s
+2024-04-19 14:30:48,350 - INFO - 	iters: 65200, epoch: 1 | loss: 0.3789357
+2024-04-19 14:30:48,350 - INFO - 	speed: 0.1026s/iter; left time: 3267032.3636s
+2024-04-19 14:30:58,609 - INFO - 	iters: 65300, epoch: 1 | loss: 0.3787950
+2024-04-19 14:30:58,609 - INFO - 	speed: 0.1026s/iter; left time: 3267722.6074s
+2024-04-19 14:31:08,910 - INFO - 	iters: 65400, epoch: 1 | loss: 0.5807750
+2024-04-19 14:31:08,910 - INFO - 	speed: 0.1030s/iter; left time: 3281178.7124s
+2024-04-19 14:31:19,167 - INFO - 	iters: 65500, epoch: 1 | loss: 0.3478044
+2024-04-19 14:31:19,167 - INFO - 	speed: 0.1026s/iter; left time: 3267026.1233s
+2024-04-19 14:31:29,450 - INFO - 	iters: 65600, epoch: 1 | loss: 0.2679040
+2024-04-19 14:31:29,450 - INFO - 	speed: 0.1028s/iter; left time: 3275244.6182s
+2024-04-19 14:31:39,717 - INFO - 	iters: 65700, epoch: 1 | loss: 0.2890286
+2024-04-19 14:31:39,717 - INFO - 	speed: 0.1027s/iter; left time: 3270333.1729s
+2024-04-19 14:32:58,007 - INFO - 	iters: 65800, epoch: 1 | loss: 0.2669311
+2024-04-19 14:32:58,086 - INFO - 	speed: 0.7837s/iter; left time: 24962527.1275s
+2024-04-19 14:33:08,383 - INFO - 	iters: 65900, epoch: 1 | loss: 0.3966977
+2024-04-19 14:33:08,383 - INFO - 	speed: 0.1030s/iter; left time: 3279759.7230s
+2024-04-19 14:33:18,650 - INFO - 	iters: 66000, epoch: 1 | loss: 0.3257963
+2024-04-19 14:33:18,651 - INFO - 	speed: 0.1027s/iter; left time: 3270328.4954s
+2024-04-19 14:33:28,896 - INFO - 	iters: 66100, epoch: 1 | loss: 0.3734993
+2024-04-19 14:33:28,896 - INFO - 	speed: 0.1025s/iter; left time: 3263443.1080s
+2024-04-19 14:33:39,189 - INFO - 	iters: 66200, epoch: 1 | loss: 0.3038331
+2024-04-19 14:33:39,189 - INFO - 	speed: 0.1029s/iter; left time: 3278387.7131s
+2024-04-19 14:33:49,438 - INFO - 	iters: 66300, epoch: 1 | loss: 0.4056389
+2024-04-19 14:33:49,438 - INFO - 	speed: 0.1025s/iter; left time: 3264394.7356s
+2024-04-19 14:33:59,675 - INFO - 	iters: 66400, epoch: 1 | loss: 0.3682383
+2024-04-19 14:33:59,675 - INFO - 	speed: 0.1024s/iter; left time: 3260855.7546s
+2024-04-19 14:34:09,940 - INFO - 	iters: 66500, epoch: 1 | loss: 0.3134843
+2024-04-19 14:34:09,940 - INFO - 	speed: 0.1026s/iter; left time: 3269450.5485s
+2024-04-19 14:34:27,178 - INFO - 	iters: 66600, epoch: 1 | loss: 0.2854054
+2024-04-19 14:34:27,699 - INFO - 	speed: 0.1776s/iter; left time: 5656360.7478s
+2024-04-19 14:34:37,971 - INFO - 	iters: 66700, epoch: 1 | loss: 0.3860408
+2024-04-19 14:34:37,972 - INFO - 	speed: 0.1027s/iter; left time: 3272061.4885s
+2024-04-19 14:34:48,267 - INFO - 	iters: 66800, epoch: 1 | loss: 0.2789060
+2024-04-19 14:34:48,267 - INFO - 	speed: 0.1030s/iter; left time: 3279204.2758s
+2024-04-19 14:34:58,532 - INFO - 	iters: 66900, epoch: 1 | loss: 0.3452211
+2024-04-19 14:34:58,532 - INFO - 	speed: 0.1026s/iter; left time: 3269432.4997s
+2024-04-19 14:35:08,821 - INFO - 	iters: 67000, epoch: 1 | loss: 0.3582138
+2024-04-19 14:35:08,822 - INFO - 	speed: 0.1029s/iter; left time: 3277348.7667s
+2024-04-19 14:35:19,102 - INFO - 	iters: 67100, epoch: 1 | loss: 0.3372501
+2024-04-19 14:35:19,102 - INFO - 	speed: 0.1028s/iter; left time: 3274505.3471s
+2024-04-19 14:35:29,351 - INFO - 	iters: 67200, epoch: 1 | loss: 0.2747106
+2024-04-19 14:35:29,351 - INFO - 	speed: 0.1025s/iter; left time: 3264253.2134s
+2024-04-19 14:35:39,645 - INFO - 	iters: 67300, epoch: 1 | loss: 0.3462501
+2024-04-19 14:35:39,645 - INFO - 	speed: 0.1029s/iter; left time: 3278799.6094s
+2024-04-19 14:35:49,916 - INFO - 	iters: 67400, epoch: 1 | loss: 0.3887478
+2024-04-19 14:35:49,916 - INFO - 	speed: 0.1027s/iter; left time: 3271308.4885s
+2024-04-19 14:36:07,212 - INFO - 	iters: 67500, epoch: 1 | loss: 0.3313032
+2024-04-19 14:36:07,212 - INFO - 	speed: 0.1730s/iter; left time: 5508974.5510s
+2024-04-19 14:36:17,505 - INFO - 	iters: 67600, epoch: 1 | loss: 0.3177437
+2024-04-19 14:36:17,505 - INFO - 	speed: 0.1029s/iter; left time: 3278294.8752s
+2024-04-19 14:36:27,808 - INFO - 	iters: 67700, epoch: 1 | loss: 0.4003588
+2024-04-19 14:36:27,809 - INFO - 	speed: 0.1030s/iter; left time: 3281659.3974s
+2024-04-19 14:36:38,072 - INFO - 	iters: 67800, epoch: 1 | loss: 0.3226124
+2024-04-19 14:36:38,072 - INFO - 	speed: 0.1026s/iter; left time: 3268866.0412s
+2024-04-19 14:37:19,368 - INFO - 	iters: 67900, epoch: 1 | loss: 0.2742833
+2024-04-19 14:37:19,369 - INFO - 	speed: 0.4130s/iter; left time: 13153089.2335s
+2024-04-19 14:37:59,642 - INFO - 	iters: 68000, epoch: 1 | loss: 0.2972385
+2024-04-19 14:37:59,642 - INFO - 	speed: 0.4027s/iter; left time: 12827069.6455s
+2024-04-19 14:38:09,903 - INFO - 	iters: 68100, epoch: 1 | loss: 0.2615753
+2024-04-19 14:38:09,903 - INFO - 	speed: 0.1026s/iter; left time: 3268312.8081s
+2024-04-19 14:38:27,201 - INFO - 	iters: 68200, epoch: 1 | loss: 0.4109144
+2024-04-19 14:38:27,201 - INFO - 	speed: 0.1730s/iter; left time: 5509330.6612s
+2024-04-19 14:38:37,474 - INFO - 	iters: 68300, epoch: 1 | loss: 0.3133268
+2024-04-19 14:38:37,474 - INFO - 	speed: 0.1027s/iter; left time: 3271874.1900s
+2024-04-19 14:38:47,740 - INFO - 	iters: 68400, epoch: 1 | loss: 0.3164763
+2024-04-19 14:38:47,740 - INFO - 	speed: 0.1027s/iter; left time: 3269707.5671s
+2024-04-19 14:38:58,016 - INFO - 	iters: 68500, epoch: 1 | loss: 0.3895825
+2024-04-19 14:38:58,016 - INFO - 	speed: 0.1028s/iter; left time: 3272865.7142s
+2024-04-19 14:39:08,281 - INFO - 	iters: 68600, epoch: 1 | loss: 0.3229007
+2024-04-19 14:39:08,281 - INFO - 	speed: 0.1027s/iter; left time: 3269398.7844s
+2024-04-19 14:39:18,576 - INFO - 	iters: 68700, epoch: 1 | loss: 0.2840516
+2024-04-19 14:39:18,576 - INFO - 	speed: 0.1029s/iter; left time: 3278734.8426s
+2024-04-19 14:39:28,845 - INFO - 	iters: 68800, epoch: 1 | loss: 0.3533385
+2024-04-19 14:39:28,845 - INFO - 	speed: 0.1027s/iter; left time: 3270685.3973s
+2024-04-19 14:39:39,114 - INFO - 	iters: 68900, epoch: 1 | loss: 0.3331743
+2024-04-19 14:39:39,114 - INFO - 	speed: 0.1027s/iter; left time: 3270479.9001s
+2024-04-19 14:39:49,390 - INFO - 	iters: 69000, epoch: 1 | loss: 0.3407032
+2024-04-19 14:39:49,390 - INFO - 	speed: 0.1028s/iter; left time: 3272890.3447s
+2024-04-19 14:39:59,653 - INFO - 	iters: 69100, epoch: 1 | loss: 0.3679507
+2024-04-19 14:39:59,653 - INFO - 	speed: 0.1026s/iter; left time: 3268708.0931s
+2024-04-19 14:40:09,928 - INFO - 	iters: 69200, epoch: 1 | loss: 0.2791569
+2024-04-19 14:40:09,928 - INFO - 	speed: 0.1028s/iter; left time: 3272500.5255s
+2024-04-19 14:40:27,211 - INFO - 	iters: 69300, epoch: 1 | loss: 0.2833162
+2024-04-19 14:40:27,212 - INFO - 	speed: 0.1728s/iter; left time: 5504471.9064s
+2024-04-19 14:40:37,492 - INFO - 	iters: 69400, epoch: 1 | loss: 0.3945018
+2024-04-19 14:40:37,493 - INFO - 	speed: 0.1028s/iter; left time: 3274317.1855s
+2024-04-19 14:40:47,766 - INFO - 	iters: 69500, epoch: 1 | loss: 0.3385667
+2024-04-19 14:40:47,766 - INFO - 	speed: 0.1027s/iter; left time: 3271920.3995s
+2024-04-19 14:40:58,048 - INFO - 	iters: 69600, epoch: 1 | loss: 0.3409463
+2024-04-19 14:40:58,048 - INFO - 	speed: 0.1028s/iter; left time: 3274800.0595s
+2024-04-19 14:41:08,292 - INFO - 	iters: 69700, epoch: 1 | loss: 0.5247369
+2024-04-19 14:41:08,292 - INFO - 	speed: 0.1024s/iter; left time: 3262386.7709s
+2024-04-19 14:41:18,588 - INFO - 	iters: 69800, epoch: 1 | loss: 0.3011957
+2024-04-19 14:41:18,589 - INFO - 	speed: 0.1030s/iter; left time: 3279273.9397s
+2024-04-19 14:41:28,874 - INFO - 	iters: 69900, epoch: 1 | loss: 0.2762315
+2024-04-19 14:41:28,874 - INFO - 	speed: 0.1029s/iter; left time: 3275614.9459s
+2024-04-19 14:41:39,119 - INFO - 	iters: 70000, epoch: 1 | loss: 0.3167295
+2024-04-19 14:41:39,119 - INFO - 	speed: 0.1025s/iter; left time: 3262997.5143s
+2024-04-19 14:42:57,473 - INFO - 	iters: 70100, epoch: 1 | loss: 0.3555962
+2024-04-19 14:42:57,473 - INFO - 	speed: 0.7835s/iter; left time: 24954191.5332s
+2024-04-19 14:43:07,726 - INFO - 	iters: 70200, epoch: 1 | loss: 0.2792179
+2024-04-19 14:43:07,726 - INFO - 	speed: 0.1025s/iter; left time: 3265280.7866s
+2024-04-19 14:43:17,994 - INFO - 	iters: 70300, epoch: 1 | loss: 0.3138185
+2024-04-19 14:43:17,994 - INFO - 	speed: 0.1027s/iter; left time: 3270271.1424s
+2024-04-19 14:43:28,296 - INFO - 	iters: 70400, epoch: 1 | loss: 0.3674409
+2024-04-19 14:43:28,297 - INFO - 	speed: 0.1030s/iter; left time: 3280969.4335s
+2024-04-19 14:43:38,534 - INFO - 	iters: 70500, epoch: 1 | loss: 0.2608248
+2024-04-19 14:43:38,534 - INFO - 	speed: 0.1024s/iter; left time: 3260418.8531s
+2024-04-19 14:43:48,814 - INFO - 	iters: 70600, epoch: 1 | loss: 0.3557889
+2024-04-19 14:43:48,815 - INFO - 	speed: 0.1028s/iter; left time: 3274049.7753s
+2024-04-19 14:43:59,098 - INFO - 	iters: 70700, epoch: 1 | loss: 0.3934852
+2024-04-19 14:43:59,098 - INFO - 	speed: 0.1028s/iter; left time: 3274912.6941s
+2024-04-19 14:44:09,353 - INFO - 	iters: 70800, epoch: 1 | loss: 0.3632588
+2024-04-19 14:44:09,354 - INFO - 	speed: 0.1026s/iter; left time: 3266177.8882s
+2024-04-19 14:44:19,638 - INFO - 	iters: 70900, epoch: 1 | loss: 0.3213363
+2024-04-19 14:44:19,638 - INFO - 	speed: 0.1028s/iter; left time: 3275184.0023s
+2024-04-19 14:44:29,914 - INFO - 	iters: 71000, epoch: 1 | loss: 0.2812710
+2024-04-19 14:44:29,914 - INFO - 	speed: 0.1028s/iter; left time: 3272788.0848s
+2024-04-19 14:44:47,203 - INFO - 	iters: 71100, epoch: 1 | loss: 0.2832900
+2024-04-19 14:44:47,203 - INFO - 	speed: 0.1729s/iter; left time: 5506046.5177s
+2024-04-19 14:44:57,475 - INFO - 	iters: 71200, epoch: 1 | loss: 0.3673747
+2024-04-19 14:44:57,475 - INFO - 	speed: 0.1027s/iter; left time: 3271332.0149s
+2024-04-19 14:45:07,735 - INFO - 	iters: 71300, epoch: 1 | loss: 0.6986054
+2024-04-19 14:45:07,735 - INFO - 	speed: 0.1026s/iter; left time: 3267263.1898s
+2024-04-19 14:45:18,009 - INFO - 	iters: 71400, epoch: 1 | loss: 0.3153275
+2024-04-19 14:45:18,009 - INFO - 	speed: 0.1027s/iter; left time: 3272090.2714s
+2024-04-19 14:45:28,285 - INFO - 	iters: 71500, epoch: 1 | loss: 0.3699447
+2024-04-19 14:45:28,285 - INFO - 	speed: 0.1028s/iter; left time: 3272354.0987s
+2024-04-19 14:45:38,519 - INFO - 	iters: 71600, epoch: 1 | loss: 0.2571447
+2024-04-19 14:45:38,520 - INFO - 	speed: 0.1023s/iter; left time: 3259448.5552s
+2024-04-19 14:45:48,808 - INFO - 	iters: 71700, epoch: 1 | loss: 0.3748946
+2024-04-19 14:45:48,808 - INFO - 	speed: 0.1029s/iter; left time: 3276570.8605s
+2024-04-19 14:45:59,095 - INFO - 	iters: 71800, epoch: 1 | loss: 0.2905475
+2024-04-19 14:45:59,095 - INFO - 	speed: 0.1029s/iter; left time: 3275926.0438s
+2024-04-19 14:46:09,339 - INFO - 	iters: 71900, epoch: 1 | loss: 0.3877394
+2024-04-19 14:46:09,339 - INFO - 	speed: 0.1024s/iter; left time: 3262356.5486s
+2024-04-19 14:46:19,616 - INFO - 	iters: 72000, epoch: 1 | loss: 0.2951631
+2024-04-19 14:46:19,616 - INFO - 	speed: 0.1028s/iter; left time: 3272779.2415s
+2024-04-19 14:46:29,878 - INFO - 	iters: 72100, epoch: 1 | loss: 0.4688740
+2024-04-19 14:46:29,878 - INFO - 	speed: 0.1026s/iter; left time: 3267892.1721s
+2024-04-19 14:46:47,142 - INFO - 	iters: 72200, epoch: 1 | loss: 0.3308237
+2024-04-19 14:46:47,142 - INFO - 	speed: 0.1726s/iter; left time: 5497980.3775s
+2024-04-19 14:47:57,421 - INFO - 	iters: 72300, epoch: 1 | loss: 0.3024893
+2024-04-19 14:47:57,422 - INFO - 	speed: 0.7028s/iter; left time: 22381117.6733s
+2024-04-19 14:48:07,685 - INFO - 	iters: 72400, epoch: 1 | loss: 0.3060697
+2024-04-19 14:48:07,685 - INFO - 	speed: 0.1026s/iter; left time: 3268479.2758s
+2024-04-19 14:48:17,976 - INFO - 	iters: 72500, epoch: 1 | loss: 0.3005411
+2024-04-19 14:48:17,976 - INFO - 	speed: 0.1029s/iter; left time: 3277173.4805s
+2024-04-19 14:48:28,227 - INFO - 	iters: 72600, epoch: 1 | loss: 0.3501560
+2024-04-19 14:48:28,227 - INFO - 	speed: 0.1025s/iter; left time: 3264571.0427s
+2024-04-19 14:48:38,456 - INFO - 	iters: 72700, epoch: 1 | loss: 0.3546855
+2024-04-19 14:48:38,456 - INFO - 	speed: 0.1023s/iter; left time: 3257435.4785s
+2024-04-19 14:48:48,722 - INFO - 	iters: 72800, epoch: 1 | loss: 0.3652698
+2024-04-19 14:48:48,722 - INFO - 	speed: 0.1027s/iter; left time: 3269242.9548s
+2024-04-19 14:48:58,977 - INFO - 	iters: 72900, epoch: 1 | loss: 0.3533760
+2024-04-19 14:48:58,977 - INFO - 	speed: 0.1025s/iter; left time: 3265607.4924s
+2024-04-19 14:49:09,219 - INFO - 	iters: 73000, epoch: 1 | loss: 0.3554024
+2024-04-19 14:49:09,219 - INFO - 	speed: 0.1024s/iter; left time: 3261667.9736s
+2024-04-19 14:49:19,486 - INFO - 	iters: 73100, epoch: 1 | loss: 0.2598225
+2024-04-19 14:49:19,486 - INFO - 	speed: 0.1027s/iter; left time: 3269383.5947s
+2024-04-19 14:49:29,740 - INFO - 	iters: 73200, epoch: 1 | loss: 0.3474613
+2024-04-19 14:49:29,741 - INFO - 	speed: 0.1025s/iter; left time: 3265575.9694s
+2024-04-19 14:49:47,043 - INFO - 	iters: 73300, epoch: 1 | loss: 0.5714852
+2024-04-19 14:49:47,043 - INFO - 	speed: 0.1730s/iter; left time: 5509935.6789s
+2024-04-19 14:49:57,326 - INFO - 	iters: 73400, epoch: 1 | loss: 0.3050415
+2024-04-19 14:49:57,327 - INFO - 	speed: 0.1028s/iter; left time: 3274738.9141s
+2024-04-19 14:50:07,564 - INFO - 	iters: 73500, epoch: 1 | loss: 0.4101926
+2024-04-19 14:50:07,564 - INFO - 	speed: 0.1024s/iter; left time: 3260007.3321s
+2024-04-19 14:50:17,853 - INFO - 	iters: 73600, epoch: 1 | loss: 0.3083770
+2024-04-19 14:50:17,853 - INFO - 	speed: 0.1029s/iter; left time: 3276537.0934s
+2024-04-19 14:50:28,109 - INFO - 	iters: 73700, epoch: 1 | loss: 0.3198477
+2024-04-19 14:50:28,109 - INFO - 	speed: 0.1026s/iter; left time: 3265972.1118s
+2024-04-19 14:50:38,369 - INFO - 	iters: 73800, epoch: 1 | loss: 0.3308407
+2024-04-19 14:50:38,369 - INFO - 	speed: 0.1026s/iter; left time: 3267235.2359s
+2024-04-19 14:50:48,653 - INFO - 	iters: 73900, epoch: 1 | loss: 0.3634967
+2024-04-19 14:50:48,653 - INFO - 	speed: 0.1028s/iter; left time: 3274808.8214s
+2024-04-19 14:50:58,895 - INFO - 	iters: 74000, epoch: 1 | loss: 0.3354307
+2024-04-19 14:50:58,895 - INFO - 	speed: 0.1024s/iter; left time: 3261436.4069s
+2024-04-19 14:51:09,194 - INFO - 	iters: 74100, epoch: 1 | loss: 0.3015800
+2024-04-19 14:51:09,194 - INFO - 	speed: 0.1030s/iter; left time: 3279699.5885s
+2024-04-19 14:51:19,447 - INFO - 	iters: 74200, epoch: 1 | loss: 0.3547884
+2024-04-19 14:51:19,447 - INFO - 	speed: 0.1025s/iter; left time: 3264804.2468s
+2024-04-19 14:51:29,718 - INFO - 	iters: 74300, epoch: 1 | loss: 0.2997217
+2024-04-19 14:51:29,718 - INFO - 	speed: 0.1027s/iter; left time: 3270617.4223s
+2024-04-19 14:51:39,999 - INFO - 	iters: 74400, epoch: 1 | loss: 0.3406546
+2024-04-19 14:51:39,999 - INFO - 	speed: 0.1028s/iter; left time: 3274032.2758s
+2024-04-19 14:52:59,312 - INFO - 	iters: 74500, epoch: 1 | loss: 0.3656313
+2024-04-19 14:52:59,312 - INFO - 	speed: 0.7931s/iter; left time: 25256050.3880s
+2024-04-19 14:53:09,580 - INFO - 	iters: 74600, epoch: 1 | loss: 0.3450577
+2024-04-19 14:53:09,580 - INFO - 	speed: 0.1027s/iter; left time: 3269772.2047s
+2024-04-19 14:53:19,843 - INFO - 	iters: 74700, epoch: 1 | loss: 0.3555872
+2024-04-19 14:53:19,843 - INFO - 	speed: 0.1026s/iter; left time: 3268032.7638s
+2024-04-19 14:53:37,134 - INFO - 	iters: 74800, epoch: 1 | loss: 0.3488869
+2024-04-19 14:53:37,135 - INFO - 	speed: 0.1729s/iter; left time: 5506148.7964s
+2024-04-19 14:53:47,405 - INFO - 	iters: 74900, epoch: 1 | loss: 0.3015817
+2024-04-19 14:53:47,406 - INFO - 	speed: 0.1027s/iter; left time: 3270580.0921s
+2024-04-19 14:53:57,675 - INFO - 	iters: 75000, epoch: 1 | loss: 0.3301578
+2024-04-19 14:53:57,675 - INFO - 	speed: 0.1027s/iter; left time: 3270195.7629s
+2024-04-19 14:54:07,928 - INFO - 	iters: 75100, epoch: 1 | loss: 0.3399981
+2024-04-19 14:54:07,928 - INFO - 	speed: 0.1025s/iter; left time: 3264795.0307s
+2024-04-19 14:54:18,214 - INFO - 	iters: 75200, epoch: 1 | loss: 0.3847031
+2024-04-19 14:54:18,214 - INFO - 	speed: 0.1029s/iter; left time: 3275285.2979s
+2024-04-19 14:54:28,492 - INFO - 	iters: 75300, epoch: 1 | loss: 0.3298933
+2024-04-19 14:54:28,493 - INFO - 	speed: 0.1028s/iter; left time: 3272989.7626s
+2024-04-19 14:54:38,747 - INFO - 	iters: 75400, epoch: 1 | loss: 0.3412255
+2024-04-19 14:54:38,747 - INFO - 	speed: 0.1025s/iter; left time: 3265407.5354s
+2024-04-19 14:54:49,026 - INFO - 	iters: 75500, epoch: 1 | loss: 0.2984725
+2024-04-19 14:54:49,027 - INFO - 	speed: 0.1028s/iter; left time: 3273119.2212s
+2024-04-19 14:54:59,297 - INFO - 	iters: 75600, epoch: 1 | loss: 0.3124923
+2024-04-19 14:54:59,297 - INFO - 	speed: 0.1027s/iter; left time: 3270474.1086s
+2024-04-19 14:55:09,544 - INFO - 	iters: 75700, epoch: 1 | loss: 0.3472343
+2024-04-19 14:55:09,544 - INFO - 	speed: 0.1025s/iter; left time: 3262753.2576s
+2024-04-19 14:55:19,814 - INFO - 	iters: 75800, epoch: 1 | loss: 0.2938683
+2024-04-19 14:55:19,814 - INFO - 	speed: 0.1027s/iter; left time: 3270112.3907s
+2024-04-19 14:55:37,107 - INFO - 	iters: 75900, epoch: 1 | loss: 0.3054023
+2024-04-19 14:55:37,107 - INFO - 	speed: 0.1729s/iter; left time: 5506504.4419s
+2024-04-19 14:55:47,386 - INFO - 	iters: 76000, epoch: 1 | loss: 0.3042388
+2024-04-19 14:55:47,387 - INFO - 	speed: 0.1028s/iter; left time: 3273217.8395s
+2024-04-19 14:55:57,672 - INFO - 	iters: 76100, epoch: 1 | loss: 0.3172891
+2024-04-19 14:55:57,672 - INFO - 	speed: 0.1029s/iter; left time: 3275149.2256s
+2024-04-19 14:56:07,927 - INFO - 	iters: 76200, epoch: 1 | loss: 0.3123162
+2024-04-19 14:56:07,927 - INFO - 	speed: 0.1025s/iter; left time: 3265351.6127s
+2024-04-19 14:56:18,179 - INFO - 	iters: 76300, epoch: 1 | loss: 0.3713717
+2024-04-19 14:56:18,179 - INFO - 	speed: 0.1025s/iter; left time: 3264406.5917s
+2024-04-19 14:56:28,475 - INFO - 	iters: 76400, epoch: 1 | loss: 0.3134874
+2024-04-19 14:56:28,476 - INFO - 	speed: 0.1030s/iter; left time: 3278599.0009s
+2024-04-19 14:56:38,728 - INFO - 	iters: 76500, epoch: 1 | loss: 0.3570204
+2024-04-19 14:56:38,728 - INFO - 	speed: 0.1025s/iter; left time: 3264421.9964s
+2024-04-19 14:57:50,003 - INFO - 	iters: 76600, epoch: 1 | loss: 0.3086509
+2024-04-19 14:57:50,003 - INFO - 	speed: 0.7128s/iter; left time: 22695145.0986s
+2024-04-19 14:58:07,275 - INFO - 	iters: 76700, epoch: 1 | loss: 0.3658493
+2024-04-19 14:58:07,275 - INFO - 	speed: 0.1727s/iter; left time: 5499628.4718s
+2024-04-19 14:58:17,558 - INFO - 	iters: 76800, epoch: 1 | loss: 0.3088771
+2024-04-19 14:58:17,559 - INFO - 	speed: 0.1028s/iter; left time: 3274408.3322s
+2024-04-19 14:58:27,838 - INFO - 	iters: 76900, epoch: 1 | loss: 0.3548793
+2024-04-19 14:58:27,838 - INFO - 	speed: 0.1028s/iter; left time: 3273136.7114s
+2024-04-19 14:58:38,072 - INFO - 	iters: 77000, epoch: 1 | loss: 0.3166364
+2024-04-19 14:58:38,072 - INFO - 	speed: 0.1023s/iter; left time: 3258673.5178s
+2024-04-19 14:58:48,358 - INFO - 	iters: 77100, epoch: 1 | loss: 0.4021989
+2024-04-19 14:58:48,358 - INFO - 	speed: 0.1029s/iter; left time: 3275032.4772s
+2024-04-19 14:58:58,636 - INFO - 	iters: 77200, epoch: 1 | loss: 0.4077071
+2024-04-19 14:58:58,636 - INFO - 	speed: 0.1028s/iter; left time: 3272530.8936s
+2024-04-19 14:59:08,880 - INFO - 	iters: 77300, epoch: 1 | loss: 0.2998655
+2024-04-19 14:59:08,880 - INFO - 	speed: 0.1024s/iter; left time: 3261892.7204s
+2024-04-19 14:59:19,177 - INFO - 	iters: 77400, epoch: 1 | loss: 0.3079913
+2024-04-19 14:59:19,177 - INFO - 	speed: 0.1030s/iter; left time: 3278599.1274s
+2024-04-19 14:59:29,473 - INFO - 	iters: 77500, epoch: 1 | loss: 0.3435397
+2024-04-19 14:59:29,473 - INFO - 	speed: 0.1030s/iter; left time: 3278198.5559s
+2024-04-19 14:59:39,739 - INFO - 	iters: 77600, epoch: 1 | loss: 0.4204147
+2024-04-19 14:59:39,739 - INFO - 	speed: 0.1027s/iter; left time: 3268719.2907s
+2024-04-19 14:59:53,023 - INFO - 	iters: 77700, epoch: 1 | loss: 0.2786859
+2024-04-19 14:59:53,023 - INFO - 	speed: 0.1328s/iter; left time: 4229830.5180s
+2024-04-19 15:00:07,312 - INFO - 	iters: 77800, epoch: 1 | loss: 0.3135203
+2024-04-19 15:00:07,312 - INFO - 	speed: 0.1429s/iter; left time: 4549511.3923s
+2024-04-19 15:00:17,597 - INFO - 	iters: 77900, epoch: 1 | loss: 0.3045412
+2024-04-19 15:00:17,597 - INFO - 	speed: 0.1029s/iter; left time: 3274945.4103s
+2024-04-19 15:00:27,870 - INFO - 	iters: 78000, epoch: 1 | loss: 0.3404299
+2024-04-19 15:00:27,871 - INFO - 	speed: 0.1027s/iter; left time: 3270968.1415s
+2024-04-19 15:00:38,114 - INFO - 	iters: 78100, epoch: 1 | loss: 0.3099639
+2024-04-19 15:00:38,114 - INFO - 	speed: 0.1024s/iter; left time: 3261405.0122s
+2024-04-19 15:00:48,382 - INFO - 	iters: 78200, epoch: 1 | loss: 0.3168207
+2024-04-19 15:00:48,382 - INFO - 	speed: 0.1027s/iter; left time: 3269370.3618s
+2024-04-19 15:00:58,643 - INFO - 	iters: 78300, epoch: 1 | loss: 0.3502922
+2024-04-19 15:00:58,644 - INFO - 	speed: 0.1026s/iter; left time: 3267246.6210s
+2024-04-19 15:01:08,891 - INFO - 	iters: 78400, epoch: 1 | loss: 0.3510035
+2024-04-19 15:01:08,892 - INFO - 	speed: 0.1025s/iter; left time: 3262929.1885s
+2024-04-19 15:01:19,162 - INFO - 	iters: 78500, epoch: 1 | loss: 0.5037129
+2024-04-19 15:01:19,163 - INFO - 	speed: 0.1027s/iter; left time: 3270246.3234s
+2024-04-19 15:01:29,421 - INFO - 	iters: 78600, epoch: 1 | loss: 0.4353327
+2024-04-19 15:01:29,421 - INFO - 	speed: 0.1026s/iter; left time: 3266251.9879s
+2024-04-19 15:01:39,677 - INFO - 	iters: 78700, epoch: 1 | loss: 0.2899027
+2024-04-19 15:01:39,678 - INFO - 	speed: 0.1026s/iter; left time: 3265587.4501s
+2024-04-19 15:02:58,014 - INFO - 	iters: 78800, epoch: 1 | loss: 0.3592951
+2024-04-19 15:02:58,015 - INFO - 	speed: 0.7834s/iter; left time: 24941979.3006s
+2024-04-19 15:03:08,276 - INFO - 	iters: 78900, epoch: 1 | loss: 0.3405249
+2024-04-19 15:03:08,276 - INFO - 	speed: 0.1026s/iter; left time: 3267187.2535s
+2024-04-19 15:03:18,553 - INFO - 	iters: 79000, epoch: 1 | loss: 0.4218885
+2024-04-19 15:03:18,553 - INFO - 	speed: 0.1028s/iter; left time: 3272171.6798s
+2024-04-19 15:03:28,813 - INFO - 	iters: 79100, epoch: 1 | loss: 0.2768952
+2024-04-19 15:03:28,813 - INFO - 	speed: 0.1026s/iter; left time: 3266684.7758s
+2024-04-19 15:03:39,078 - INFO - 	iters: 79200, epoch: 1 | loss: 0.3147225
+2024-04-19 15:03:39,079 - INFO - 	speed: 0.1027s/iter; left time: 3268277.1297s
+2024-04-19 15:03:49,347 - INFO - 	iters: 79300, epoch: 1 | loss: 0.2705139
+2024-04-19 15:03:49,348 - INFO - 	speed: 0.1027s/iter; left time: 3269515.9614s
+2024-04-19 15:03:59,586 - INFO - 	iters: 79400, epoch: 1 | loss: 0.3839198
+2024-04-19 15:03:59,586 - INFO - 	speed: 0.1024s/iter; left time: 3259790.7038s
+2024-04-19 15:04:09,855 - INFO - 	iters: 79500, epoch: 1 | loss: 0.3458140
+2024-04-19 15:04:09,855 - INFO - 	speed: 0.1027s/iter; left time: 3269578.9238s
+2024-04-19 15:04:27,144 - INFO - 	iters: 79600, epoch: 1 | loss: 0.3089523
+2024-04-19 15:04:27,144 - INFO - 	speed: 0.1729s/iter; left time: 5504563.8201s
+2024-04-19 15:04:37,435 - INFO - 	iters: 79700, epoch: 1 | loss: 0.4085313
+2024-04-19 15:04:37,435 - INFO - 	speed: 0.1029s/iter; left time: 3276414.5534s
+2024-04-19 15:04:47,735 - INFO - 	iters: 79800, epoch: 1 | loss: 0.3848706
+2024-04-19 15:04:47,735 - INFO - 	speed: 0.1030s/iter; left time: 3279323.5580s
+2024-04-19 15:04:58,001 - INFO - 	iters: 79900, epoch: 1 | loss: 0.2942863
+2024-04-19 15:04:58,002 - INFO - 	speed: 0.1027s/iter; left time: 3268659.7384s
+2024-04-19 15:05:08,217 - INFO - 	iters: 80000, epoch: 1 | loss: 0.3731012
+2024-04-19 15:05:08,217 - INFO - 	speed: 0.1022s/iter; left time: 3252338.1690s
+2024-04-19 15:05:18,513 - INFO - 	iters: 80100, epoch: 1 | loss: 0.6508394
+2024-04-19 15:05:18,514 - INFO - 	speed: 0.1030s/iter; left time: 3278194.4980s
+2024-04-19 15:05:28,764 - INFO - 	iters: 80200, epoch: 1 | loss: 0.3411433
+2024-04-19 15:05:28,765 - INFO - 	speed: 0.1025s/iter; left time: 3263765.6080s
+2024-04-19 15:05:39,024 - INFO - 	iters: 80300, epoch: 1 | loss: 0.3647457
+2024-04-19 15:05:39,024 - INFO - 	speed: 0.1026s/iter; left time: 3266336.7422s
+2024-04-19 15:05:49,326 - INFO - 	iters: 80400, epoch: 1 | loss: 0.2861748
+2024-04-19 15:05:49,326 - INFO - 	speed: 0.1030s/iter; left time: 3279966.9368s
+2024-04-19 15:05:59,585 - INFO - 	iters: 80500, epoch: 1 | loss: 0.4185848
+2024-04-19 15:05:59,585 - INFO - 	speed: 0.1026s/iter; left time: 3266112.6411s
+2024-04-19 15:06:09,872 - INFO - 	iters: 80600, epoch: 1 | loss: 0.2530180
+2024-04-19 15:06:09,872 - INFO - 	speed: 0.1029s/iter; left time: 3275192.3683s
+2024-04-19 15:07:48,574 - INFO - 	iters: 80700, epoch: 1 | loss: 0.2898839
+2024-04-19 15:07:48,575 - INFO - 	speed: 0.9870s/iter; left time: 31424549.2777s
+2024-04-19 15:07:58,869 - INFO - 	iters: 80800, epoch: 1 | loss: 0.2868200
+2024-04-19 15:07:58,869 - INFO - 	speed: 0.1029s/iter; left time: 3277171.6967s
+2024-04-19 15:08:09,149 - INFO - 	iters: 80900, epoch: 1 | loss: 0.3025839
+2024-04-19 15:08:09,150 - INFO - 	speed: 0.1028s/iter; left time: 3273077.5824s
+2024-04-19 15:08:19,406 - INFO - 	iters: 81000, epoch: 1 | loss: 0.2950621
+2024-04-19 15:08:19,406 - INFO - 	speed: 0.1026s/iter; left time: 3265460.5536s
+2024-04-19 15:08:29,686 - INFO - 	iters: 81100, epoch: 1 | loss: 0.3185029
+2024-04-19 15:08:29,686 - INFO - 	speed: 0.1028s/iter; left time: 3272685.2356s
+2024-04-19 15:08:39,950 - INFO - 	iters: 81200, epoch: 1 | loss: 0.2395780
+2024-04-19 15:08:39,950 - INFO - 	speed: 0.1026s/iter; left time: 3267762.3635s
+2024-04-19 15:08:57,238 - INFO - 	iters: 81300, epoch: 1 | loss: 0.3992390
+2024-04-19 15:08:57,239 - INFO - 	speed: 0.1729s/iter; left time: 5504108.1540s
+2024-04-19 15:09:07,510 - INFO - 	iters: 81400, epoch: 1 | loss: 0.3218049
+2024-04-19 15:09:07,511 - INFO - 	speed: 0.1027s/iter; left time: 3270313.6435s
+2024-04-19 15:09:17,798 - INFO - 	iters: 81500, epoch: 1 | loss: 0.3469781
+2024-04-19 15:09:17,799 - INFO - 	speed: 0.1029s/iter; left time: 3275236.7915s
+2024-04-19 15:09:28,046 - INFO - 	iters: 81600, epoch: 1 | loss: 0.3331788
+2024-04-19 15:09:28,047 - INFO - 	speed: 0.1025s/iter; left time: 3262688.7716s
+2024-04-19 15:09:38,320 - INFO - 	iters: 81700, epoch: 1 | loss: 0.3479087
+2024-04-19 15:09:38,321 - INFO - 	speed: 0.1027s/iter; left time: 3270841.1779s
+2024-04-19 15:09:48,574 - INFO - 	iters: 81800, epoch: 1 | loss: 0.2516800
+2024-04-19 15:09:48,575 - INFO - 	speed: 0.1025s/iter; left time: 3264449.8154s
